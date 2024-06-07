@@ -31,3 +31,37 @@ body {
     text-wrap: balance;
   }
 }
+
+
+
+
+@layer utilities {
+  .checkmark-list {
+    list-style-type: none; /* Remove default list style */
+    padding-left: 0; /* Remove default padding */
+  }
+  .checkmark-list li {
+    display: flex;
+    align-items: center;
+    padding: 0.5em 0;
+  }
+  .checkmark-list li::before {
+    content: '';
+    display: inline-block;
+    background-image: url('data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 fill=%22none%22 viewBox=%220 0 24 24%22 stroke-width=%221.5%22 stroke=%22currentColor%22%3E%3Cpath stroke-linecap=%22round%22 stroke-linejoin=%22round%22 d=%22M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z%22 /%3E%3C/svg%3E');
+    width: 50px;
+    height: 50px;
+    margin-right: 0.5em;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .checkmark-list li.checked::before {
+    filter: none; /* Remove any filters */
+  }
+  .checkmark-list li.inactive::before {
+    filter: grayscale(100%); /* Make the SVG gray for inactive items */
+  }
+  .checkmark-list li.inactive {
+    color: lightgray; /* Inactive text color */
+  }
+}
