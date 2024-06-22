@@ -22,8 +22,9 @@ const config: Config = {
         subtext: "#d5dadd",
       }
     },
+    
   },
-  plugins: [require('daisyui'), nextui()],
+  plugins: [require('daisyui'), nextui(),require('@tailwindcss/forms')],
 };
 
 export default config;
