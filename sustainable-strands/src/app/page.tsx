@@ -6,7 +6,7 @@ export default function Chat() {
   const { messages, input, handleInputChange, handleSubmit } = useChat()
 
   return (
-    <div className="flex flex-col w-full max-w-md py-24 mx-auto stretch">
+    <div className="flex flex-col w-full max-w-md py-24 mx-auto stretch h-full">
       {messages.length > 0
         ? messages.map(m => (
             <div key={m.id} className="whitespace-pre-wrap">
