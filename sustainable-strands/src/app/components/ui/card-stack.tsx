@@ -36,7 +36,7 @@ export const CardStack = ({
         newArray.unshift(newArray.pop()!); // move the last element to the front
         return newArray;
       });
-    }, 3000);
+    }, 30000);
   };
 
   return (
@@ -45,7 +45,7 @@ export const CardStack = ({
         return (
           <motion.div
             key={card.id}
-            className="absolute dark:bg-black bg-white  rounded-3xl p-4 shadow-xl border border-neutral-200 dark:border-white/[0.1]  shadow-black/[0.1] dark:shadow-white/[0.05] flex flex-col justify-around"
+            className="absolute dark:bg-black bg-black  rounded-3xl p-4 shadow-xl border border-neutral-200  shadow-black/[0.1] dark:shadow-white/[0.05] flex flex-col justify-around"
             style={{
               transformOrigin: "top center",
             }}
@@ -55,10 +55,10 @@ export const CardStack = ({
               zIndex: cards.length - index, //  decrease z-index for the cards that are behind
             }}
           >
-            <div className="card w-96 bg-base-100">
+            <div className="card w-96 bg-base-100 dark:bg-black">
               <figure><Image src={card.image} alt={card.name} className="w-3/6 object-cover flex items-center rounded-md" /></figure>
               <div className="card-body">
-                <h2 className="card-title">{card.name}</h2>
+                <h2 className="card-title dark:text-white">{card.name}</h2>
                 <p className="text-neutral-400 font-normal dark:text-neutral-200 pb-2">{card.designation}</p>
               </div>
             </div>

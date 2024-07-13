@@ -42,10 +42,10 @@ export default function MarketPlace(){
       ];
 
     return (
-        <main className="">
+        <main className="bg-base-100">
             <NavBar />
             <Filter/>
-            <div className="mt-10 bg-base grid grid-cols-1 md:grid-cols-4 sm:grid-cols-3 gap-2 mx-4">
+            <div className="mt-10 bg-base grid grid-cols-1 md:grid-cols-4 sm:grid-cols-3 gap-2 mx-4 ">
             {businesses.map((business) => (
             <Card business={business} />
             ))}
@@ -66,12 +66,12 @@ function Filter(){
             <div className="join flex items-center py-2 pr-1">
                 <div>
                     <div>
-                    <input className="input input-bordered join-item" placeholder="Business Name"/>
+                    <input className="input input-bordered join-item dark:text-white" placeholder="Business Name"/>
                     </div>
                 </div>
                 <Modal/>
                 <div className="indicator">
-                    <button className="btn join-item btn-bordered">Search</button>
+                    <button className="btn join-item btn-bordered dark:text-white">Search</button>
                 </div>
             </div>
             </div>
@@ -92,7 +92,7 @@ const Modal = () => {
       {/* Modal toggle */}
       <button
         onClick={toggleModal}
-        className="block text-black btn join-item focus:outline-none  font-medium text-sm px-5 py-2.5 text-center"
+        className="block text-black btn join-item focus:outline-none dark:text-white font-medium text-sm px-5 py-2.5 text-center"
         type="button"
       >
         Filter
@@ -237,24 +237,24 @@ function Card({ business }: { business: Business }) {
     const telephone = "tel:" + business.Phone;
     const email = "mailto:" + business.Email
     return (
-        <div className="mx-16 md:mx-5 sm:mx-1 max-w overflow-hidden rounded-lg bg-base-100 shadow">
+        <div className="mx-16 md:mx-5 sm:mx-1 max-w overflow-hidden rounded-lg bg-base-100 dark:bg-gray-200 shadow">
             {business.imageSrc!=="" ? (
                 <img src={business.imageSrc} className="aspect-video w-full object-cover"/>
             ) : (
                 <div className="aspect-video w-full flex items-center justify-center object-cover">
-                    <div className="bg-gray-300 p-5 rounded-lg text-2xl">
+                    <div className="bg-gray-300 dark:bg-gray-400 p-5 rounded-lg text-2xl">
                         🌿
                     </div>
                 </div>
             )}
             <div className="p-4">
-                <h3 className="text-xl font-medium text-base-content">{business.BusinessName}</h3>
+                <h3 className="text-xl font-medium text-base-content dark:text-black">{business.BusinessName}</h3>
                 <div className="flex row items-center">
                     <p className="mb-2 mr-1 text-sm text-neutral-content">{business.Primary} • </p>
                     <a href={email}><MdOutlineMailOutline className="mb-2 mr-1 text-neutral-content"/> </a>
                     <a href={telephone}><MdOutlineLocalPhone className="mb-2 text-neutral-content"/></a>
                 </div>
-                <div className="rating">
+                <div className="rating ">
                     <input type="radio" name="rating-1" className="mask mask-star" />
                     <input type="radio" name="rating-1" className="mask mask-star" defaultChecked />
                     <input type="radio" name="rating-1" className="mask mask-star" />
