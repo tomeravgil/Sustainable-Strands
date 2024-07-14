@@ -1,46 +1,38 @@
 "use client";
 import { useEffect, useRef, useState } from 'react';
-import { Chart, registerables } from 'chart.js';
+import { Chart, registerables } from 'chart.js/auto';
 import axios from 'axios';
+
 
 Chart.register(...registerables);
 
-export default function Analytics() {
-    const chartRef = useRef(null);
-    const [chartData, setChartData] = useState({ xValues: [], yValues: [] });
+
+
+
+const BarGraph = ({ chartData }) => {
+    const chartRef = useRef(null); // Create a reference for the chart instance
 
     useEffect(() => {
-        // Fetch data from the backend API
-        axios.get('http://localhost:3001/api/data')
-            .then(response => {
-                setChartData(response.data);
-            })
-            .catch(error => {
-                console.error('Error fetching data:', error);
-            });
-    }, []);
+        
 
-    useEffect(() => {
-        if (chartData.xValues.length === 0 || chartData.yValues.length === 0) return;
-
-        const ctx = document.getElementById('barChart').getContext('2d');
+        const ctx = (document.getElementById('barChart') as HTMLCanvasElement).getContext('2d');
 
         // Destroy the previous chart instance if it exists
         if (chartRef.current) {
             chartRef.current.destroy();
         }
-        var barColors =  [ "black"];
+
         // Create new chart instance and save it to the ref
         chartRef.current = new Chart(ctx, {
             type: 'bar',
             data: {
-                labels: chartData.xValues,
+                labels: chartData.labels,
                 datasets: [{
                     label: '', // Set to an empty string to hide the label
-                    backgroundColor: barColors,
+                    backgroundColor: ['black'],
                     borderColor: 'rgba(0, 0, 255, 1)',
                     borderWidth: 1,
-                    data: chartData.yValues,
+                    data: chartData.values,
                     borderRadius: 15
                 }]
             },
@@ -61,11 +53,10 @@ export default function Analytics() {
                         },
                         grid: {
                             display: false // Hide x-axis grid lines
-                        },
-
+                        }
                     },
                     y: {
-                        display:false,
+                        display: false,
                         ticks: {
                             display: false // Hide y-axis ticks
                         },
@@ -76,12 +67,16 @@ export default function Analytics() {
                 }
             }
         });
-    }, [chartData]);
 
-    return (
-        <>
-            <canvas id="barChart" style={{ width: '20%', maxWidth: '700px', height: '5%' }}></canvas>
-            <canvas id="barChart" style={{ width: '20%', maxWidth: '700px', height: '5%' }}></canvas>
-        </>
-    );
-}
+        // Cleanup function to destroy the chart on unmount
+        return () => {
+            if (chartRef.current) {
+                chartRef.current.destroy();
+            }
+        };
+    }, [chartData]); // Run effect when chartData changes
+
+    return <canvas id="barChart"></canvas>; // Canvas element for Chart.js
+};
+
+export default BarGraph;
