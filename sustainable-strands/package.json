@@ -9,10 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "@heroicons/react": "^2.1.5",
+    "@nextui-org/theme": "^2.2.6",
     "@tabler/icons-react": "^3.5.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@types/mongodb": "^4.0.7",
+    "axios": "^1.7.2",
     "clsx": "^2.1.1",
+    "daisyui": "^4.12.10",
     "flowbite": "^2.3.0",
     "framer-motion": "^11.2.10",
+    "mongodb": "^6.8.0",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
