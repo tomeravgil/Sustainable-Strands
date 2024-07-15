@@ -5,7 +5,7 @@ import axios from "axios"
 
 
 
-export async function BarGraph(){
+export async function BarGraphData(){
 
     type HempCount = {
         [key: string]: number;
@@ -25,18 +25,21 @@ export async function BarGraph(){
 
 
     for (let key in hemp_count) {
-        if (hemp_count.hasOwnProperty(key)) {
+       if (hemp_count.hasOwnProperty(key)) {
 
-            const response = await axios.get('http://localhost::3000/api/Transaxtions', {
+            const response = await axios.get('http://localhost:3000/API/Transactions', {
                 params: {'Hemp product type' : key}
             });
-        
-            let value = prompt(`Enter the count for ${key}:`);
-            hemp_count[key] = response.data.length as any; // Convert the string input to a number
+            hemp_count[key] = response.data.length; // Convert the string input to a number
         }
     }
 
-    return hemp_count;
+    const sortedArray = Object.entries(hemp_count)
+    .sort(([, valueA], [, valueB]) => valueB - valueA); // Sort in descending order
+
+// Convert the sorted array back to an object
+    const sortedHempCount = Object.fromEntries(sortedArray);
+    return sortedHempCount;
     
     
 
