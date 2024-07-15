@@ -16,9 +16,9 @@ import { PlaceholdersAndVanishInput } from "../components/ui/placeholders-and-va
 import { HoveredLink, Menu, MenuItem, ProductItem } from "../components/ui/navbar-menu";
 export default function Home() {
   return (
-    <main className="min-h-screen items-center justify-start overflow-hidden">
+    <main className="min-h-screen items-center justify-start overflow-hidden dark:bg-black">
       <Navbar className="top-0" />
-      <div className="absolute inset-0 bg-gradient-to-r from-green-300 via-gray-300 to-background opacity-70 blur-2xl"/>
+      <div className="absolute inset-0 bg-gradient-to-r from-green-300 via-gray-300 to-background opacity-70 dark:bg-black dark:bg-none blur-2xl"/>
       <div className="relative z-10 items-center space-y-10">
         <GoogleGeminiEffectDemo />
         <h2 className="mb-10 sm:mb-20 text-xl text-center sm:text-5xl dark:text-white text-black">
@@ -383,10 +383,11 @@ export function GoogleGeminiEffectDemo() {
 
   return (
     <div
-      className="h-[125vh] z-50 w-full dark:border dark:border-white/[0.1] rounded-md relative  overflow-clip"
+      className="h-[125vh] z-50 w-full  rounded-md relative  overflow-clip"
       ref={ref}
     >
       <Strands
+        title="Sustainable Strands"
         pathLengths={[
           pathLengthFirst,
           pathLengthSecond,
@@ -424,7 +425,7 @@ const Strands = ({
   return (
     <div className={cn("sticky top-40 w-screen", className)}>
       <div className="pt-36">
-        <p className="text-lg md:text-7xl font-normal pb-4 text-center bg-clip-text text-transparent bg-gradient-to-b from-title to-title">
+        <p className="text-lg md:text-7xl font-normal pb-4 text-center bg-clip-text bg-gradient-to-b text-title from-title to-title">
           {title || `Strands Shaping the Future`}
         </p>
         <div className="text-xs md:text-xl font-normal text-center text-neutral-400 mt-4 max-w-xl mx-auto">
@@ -534,7 +535,7 @@ export function HoverBorderGradientDemo() {
       <HoverBorderGradient
         containerClassName="rounded-full"
         as="button"
-        className="dark:bg-white  text-white dark:text-white flex items-center text-sm transition ease-in hover:text-text delay-100"
+        className="dark:bg-green  light:text-white dark:text-black flex items-center text-sm transition ease-in hover:text-text dark:hover:text-white delay-100"
         duration={.25}
       >
         <span >Get Started</span>
@@ -605,6 +606,7 @@ function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/enterprise">Enterprise</HoveredLink>
           </div>
         </MenuItem>
+        <a className="dark:text-white" href="/Login">Log In</a>
       </Menu>
     </div>
   );
