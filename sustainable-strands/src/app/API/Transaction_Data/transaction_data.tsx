@@ -21,7 +21,7 @@ export default async function Transaction_Data(company_name){
         lifetime_income: 0,
         annual_income: 0,
         cur_month_transactions: 0,
-        prev_month_transaction:0,
+        prev_month_transactions:0,
         annual_transactions:0,
         lifetime_transactions: 0
     }
@@ -46,10 +46,12 @@ export default async function Transaction_Data(company_name){
 
         if(cur_month == month && year == cur_year){
             transaction_data.cur_month_income += numberValue;
-            transaction_data.cur_month_income += 1;
+            transaction_data.cur_month_transactions += 1;
         }
         if(month == (cur_month - 1) && year == cur_year){
             transaction_data.prev_month_income += numberValue;
+            transaction_data.prev_month_transactions += 1;
+
         }
         
         

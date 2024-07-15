@@ -41,7 +41,7 @@ const LineGraph = ({ chartData }) => {
     const chartRef = useRef(null); // Create a reference for the chart instance
 
     useEffect(() => {
-        const size = chartData.yValues.length;
+        const size = chartData.values.length;
         const labels = months({count:size});
         const ctx = (document.getElementById('line') as HTMLCanvasElement).getContext('2d');
 
@@ -57,7 +57,7 @@ const LineGraph = ({ chartData }) => {
                 labels: labels,
                 datasets: [{
                     label: "Monthly Income", // Set to an empty string to hide the label
-                    backgroundColor: ['black'],
+                    backgroundColor: ['blue'],
                     borderColor: 'black',
                     borderWidth: 1,
                     data: chartData.values,
@@ -68,28 +68,15 @@ const LineGraph = ({ chartData }) => {
                     title: {
                         display: false // Hide the title
                     },
-                    legend: {
-                        display: false // Hide the legend
-                    }
+                    
                 },
                 scales: {
                     x: {
                         
-                        ticks: {
-                            display: false // Hide x-axis ticks
-                        },
-                        grid: {
-                            display: false // Hide x-axis grid lines
-                        }
+                        
                     },
                     y: {
-                        display: false,
-                        ticks: {
-                            display: false // Hide y-axis ticks
-                        },
-                        grid: {
-                            display: false // Hide y-axis grid lines
-                        }
+                        
                     }
                 },
                 elements:{
