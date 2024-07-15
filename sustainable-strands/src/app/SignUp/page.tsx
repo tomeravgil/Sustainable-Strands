@@ -40,14 +40,29 @@ function SignUpForm() {
               <Input id="last-name" placeholder="Robinson" required />
             </div>
           </div>
+          <div className="grid grid-cols-2 gap-4">
+            <div className="grid gap-2">
+              <Label htmlFor="email">Email</Label>
+              <Input id="email" type="email" placeholder="aaa@bbb.com" required />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="phone">Phone Number</Label>
+              <Input id="phone" placeholder="(123) 456-7890" required />
+            </div>
+          </div>
+          <div className="grid grid-cols-2 gap-4">
+            <div className="grid gap-2">
+              <Label htmlFor="company">Company Name</Label>
+              <Input id="company" placeholder="A&B Co." required />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="state">Company State</Label>
+              <Input id="state" placeholder="MN" required />
+            </div>
+          </div>
           <div className="grid gap-2">
-            <Label htmlFor="email">Email</Label>
-            <Input
-              id="email"
-              type="email"
-              placeholder="m@example.com"
-              required
-            />
+            <Label htmlFor="username">Username</Label>
+            <Input id="username" />
           </div>
           <div className="grid gap-2">
             <Label htmlFor="password">Password</Label>
