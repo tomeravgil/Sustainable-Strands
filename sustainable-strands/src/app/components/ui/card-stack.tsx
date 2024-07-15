@@ -36,7 +36,7 @@ export const CardStack = ({
         newArray.unshift(newArray.pop()!); // move the last element to the front
         return newArray;
       });
-    }, 1000);
+    }, 5000);
   };
 
   return (
@@ -45,7 +45,7 @@ export const CardStack = ({
         return (
           <motion.div
             key={card.id}
-            className="absolute dark:bg-black bg-black  rounded-3xl p-4 shadow-xl border border-neutral-200  shadow-black/[0.1] dark:shadow-white/[0.05] flex flex-col justify-around"
+            className="absolute dark:bg-black bg-white  rounded-3xl p-4 shadow-xl border border-neutral-200  shadow-black/[0.1] dark:shadow-white/[0.05] flex flex-col justify-around"
             style={{
               transformOrigin: "top center",
             }}
