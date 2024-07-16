@@ -1,48 +1,13 @@
 "use client";
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import { Chart, registerables } from 'chart.js/auto';
-import axios from 'axios';
-import { count } from 'console';
-
 
 Chart.register(...registerables);
-
-
-const MONTHS = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December'
-];
-function months(config) {
-    var cfg = config || {};
-    var count = cfg.count || 12;
-    var section = cfg.section;
-    var values = [];
-    var i, value;
-  
-    for (i = 0; i < count; ++i) {
-      value = MONTHS[Math.ceil(i) % 12];
-      values.push(value.substring(0, section));
-    }
-  
-    return values;
-}
 
 const LineGraph = ({ chartData }) => {
     const chartRef = useRef(null); // Create a reference for the chart instance
 
     useEffect(() => {
-        const size = chartData.values.length;
-        const labels = months({count:size});
         const ctx = (document.getElementById('line') as HTMLCanvasElement).getContext('2d');
 
         // Destroy the previous chart instance if it exists
@@ -54,10 +19,10 @@ const LineGraph = ({ chartData }) => {
         chartRef.current = new Chart(ctx, {
             type: 'line',
             data: {
-                labels: labels,
+                labels: chartData.labels, // Ensure you provide the correct labels
                 datasets: [{
                     label: "Monthly Income", // Set to an empty string to hide the label
-                    backgroundColor: ['blue'],
+                    backgroundColor: 'blue',
                     borderColor: 'black',
                     borderWidth: 1,
                     data: chartData.values,
@@ -68,21 +33,24 @@ const LineGraph = ({ chartData }) => {
                     title: {
                         display: false // Hide the title
                     },
-                    
                 },
                 scales: {
                     x: {
-                        
-                        
+                        title: {
+                            display: true,
+                            text: 'Months'
+                        }
                     },
                     y: {
-                        
+                        title: {
+                            display: true,
+                            text: 'Income'
+                        }
                     }
                 },
-                elements:{
-                    point:{
-                        radius: .5,
-
+                elements: {
+                    point: {
+                        radius: 0.5,
                     }
                 }
             }
