@@ -30,8 +30,14 @@ export async function GET(req: NextApiRequest, res: NextApiResponse) {
         const params = new URLSearchParams(req.url);
         const paramObj: { [key: string]: string } = {};
 
+        let i = 0;
         for (const [key, value] of params) {
-            paramObj[key.split('?')[1]] = value;
+            if( i == 0){
+                paramObj[key.split('?')[1]] = value;
+            }else{
+                paramObj[key] = value;
+            }
+            i++;
         }
         const data = await collection.find(paramObj).toArray();
 
