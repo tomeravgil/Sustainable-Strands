@@ -1,28 +1,45 @@
-import Image from "next/image";
+'use client'
+
+import { useChat } from 'ai/react'
 import Transaction_Data_Card from "./components/ui/transaction_cards";
 import Hemp_Distrobution_Graph from "./components/ui/hemp_distrobution_graph";
 import LineGraph from "./Analytics/linegraph"
 import PieGraph from "./Analytics/piegraph";
 
-const line_data = {
-  values:[9023, 9184, 9512, 9928, 9704, 9483, 9875, 9672, 9781, 9569, 9440, 9305, 9752, 9137, 9863, 9921, 9654, 9432, 9779, 9871, 9034, 9316, 9198, 9784, 9531, 9997, 9070]
-}
-  
-export default async function Home() {
+export default function Chat() {
+  const { messages, input, handleInputChange, handleSubmit } = useChat()
 
-  
-  
   return (
-    <>
+    <div className="flex flex-col w-full max-w-md py-24 mx-auto stretch h-full">
+      {messages.length > 0
+        ? messages.map(m => (
+            <div key={m.id} className="whitespace-pre-wrap">
+              {m.role === 'user' ? 'User: ' : 'AI: '}
+              {m.content}
+            </div>
+          ))
+        : null}
+
+      <form onSubmit={handleSubmit}>
+        <input
+          className="fixed bottom-0 w-full max-w-md p-2 mb-8 border border-gray-300 rounded shadow-xl"
+          value={input}
+          placeholder="Say something..."
+          onChange={handleInputChange}
+        />
+      </form>
       <Transaction_Data_Card></Transaction_Data_Card>
       <Hemp_Distrobution_Graph></Hemp_Distrobution_Graph>
       <LineGraph chartData={line_data}></LineGraph>
+    </div>
+     
+     
 
 
-    </>
+   
+  )
+   
     
 
-  );
-}
-
+};
 
