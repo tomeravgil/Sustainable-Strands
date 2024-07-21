@@ -11,8 +11,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col w-full max-w-md py-24 mx-auto stretch h-full">
-      {messages.length > 0
-        ? messages.map(m => (
+      {messages.length > 0 ? messages.map(m => (
             <div key={m.id} className="whitespace-pre-wrap">
               {m.role === 'user' ? 'User: ' : 'AI: '}
               {m.content}
