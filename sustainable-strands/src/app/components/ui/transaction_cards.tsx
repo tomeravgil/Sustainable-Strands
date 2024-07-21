@@ -1,6 +1,6 @@
 "use client"
 import React, { useState, useEffect } from 'react';
-import Transaction_Data from '../../API/Transaction_Data/transaction_data';
+import Transaction_Data from '@/app/api/Transaction_Data/transaction_data';
 
 interface TransactionData {
     prev_month_income: number;

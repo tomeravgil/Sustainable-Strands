@@ -6,7 +6,7 @@ import Hemp_Distrobution_Graph from "./components/ui/hemp_distrobution_graph";
 import LineGraph from "./Analytics/linegraph"
 import PieGraph from "./Analytics/piegraph";
 
-export default function Chat() {
+export default function Home() {
   const { messages, input, handleInputChange, handleSubmit } = useChat()
 
   return (
@@ -28,9 +28,6 @@ export default function Chat() {
           onChange={handleInputChange}
         />
       </form>
-      <Transaction_Data_Card></Transaction_Data_Card>
-      <Hemp_Distrobution_Graph></Hemp_Distrobution_Graph>
-      <LineGraph chartData={line_data}></LineGraph>
     </div>
      
      
