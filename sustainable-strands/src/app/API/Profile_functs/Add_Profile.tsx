@@ -30,7 +30,8 @@ export async function add_profile(formData: any){
         "Phone Number": formData.phone,
         "Email": formData.email,
         "Username": formData.username,
-        "Password": await hashPassword(formData.password)
+        "Password": await hashPassword(formData.password),
+        "Verified": false
       }
       try {
         const response = await axios.post('http://localhost:3000/api/Profiles', profileData,{});

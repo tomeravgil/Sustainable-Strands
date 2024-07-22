@@ -1,6 +1,7 @@
 "use client"
 import Link from "next/link"
 import axios from "axios"
+import { send_code } from "../api/Profile_functs/Verification_Email"
 import { useState, ChangeEvent, FormEvent } from "react"
 import { Button } from "@/components/ui/button"
 import {
@@ -61,8 +62,11 @@ function SignUpForm() {
     const usernameAvalable = await checkUsername(formData.username);
     console.log("usernameAvalable: ", usernameAvalable);
     if(usernameAvalable){
+
       const response =  await add_profile(formData);
       console.log("Response: ", response);
+      send_code(formData.email);
+
     }else{
       console.log("Username taken")
 
