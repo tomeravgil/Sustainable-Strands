@@ -106,7 +106,7 @@ export async function DELETE(req: NextApiRequest, res: NextApiResponse){
         const deleteBody = await streamToJson(req.body);
         console.log(deleteBody);
         const deleteId = deleteBody.id
-        const deleteResult = await collection.deleteOne({ _id: new ObjectId(deleteId) })
+        const deleteResult = await collection.deleteOne( { _id: new ObjectId(deleteId) } )
         return NextResponse.json(deleteResult);
 
     }catch(error){
