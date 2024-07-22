@@ -27,7 +27,6 @@ export const POST = async (req: NextApiRequest, res: NextApiResponse) => {
   const { to, subject, text } = body;
   
   if (!to || !subject || !text) {
-    //console.log(req.body);
     return NextResponse.json({ message: ' Missing required fields' });
   }
 

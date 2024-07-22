@@ -15,6 +15,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { add_profile } from "../api/Profile_functs/Add_Profile"
 import { checkUsername } from "../api/Profile_functs/Add_Profile"
+import {call_login} from "../api/Cookie_Functions/route"
 
 interface FormData {
   firstName: string;
@@ -58,14 +59,13 @@ function SignUpForm() {
 
   const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    console.log("Form Data:", formData);
     const usernameAvalable = await checkUsername(formData.username);
-    console.log("usernameAvalable: ", usernameAvalable);
     if(usernameAvalable){
 
       const response =  await add_profile(formData);
-      console.log("Response: ", response);
       send_code(formData.email);
+      call_login(response);
+      //redirect to verification code page
 
     }else{
       console.log("Username taken")
