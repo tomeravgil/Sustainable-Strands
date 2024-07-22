@@ -1,5 +1,6 @@
 "use client"
 import { Fragment, useState } from 'react'
+import { useChat } from 'ai/react'
 import {
   Dialog,
   DialogPanel,
@@ -49,6 +50,7 @@ function classNames(...classes: any) {
 
 export default function ChatBot() {
   const [sidebarOpen, setSidebarOpen] = useState(false)
+  const { messages, input, handleInputChange, handleSubmit } = useChat()
 
   return (
     <>
@@ -237,10 +239,25 @@ export default function ChatBot() {
           </div>
         </div>
 
-        <div className="flex flex-1 flex-col lg:pl-72 justify-center">
+        <div className="flex flex-1 flex-col lg:pl-72">
           <main className="flex flex-1 flex-col">
-            <div className="flex-1 py-10">
-              <div className="px-4 sm:px-6 lg:px-8">{/* Your content */}</div>
+            <div className="flex-1 py-10 px-4 overflow-y-auto">
+              <div className="flex flex-col items-center space-y-4">
+                {messages.length > 0 ? messages.map((m) => (
+                  <div
+                    key={m.id}
+                    className={classNames(
+                      m.role === 'user' ? 'bg-blue-100 text-blue-800' : 'bg-gray-100 text-gray-800',
+                      'p-4 max-w-lg w-full rounded-lg shadow-md'
+                    )}
+                  >
+                    <div className="font-semibold">{m.role === 'user' ? 'User: ' : 'AI: '}</div>
+                    <div className="whitespace-pre-wrap">{m.content}</div>
+                  </div>
+                )) : (
+                  <div className="text-gray-500">No messages yet</div>
+                )}
+              </div>
             </div>
 
             <div className="z-40 flex h-16 shrink-0 items-center gap-x-4 border m-auto rounded-full mb-5 border-gray-500 bg-white px-4 shadow-sm sm:gap-x-6 sm:px-6 lg:px-8 w-3/5">
@@ -252,24 +269,27 @@ export default function ChatBot() {
               <div className="h-6 w-px bg-gray-900/10 lg:hidden" aria-hidden="true" />
 
               <div className="flex flex-1 gap-x-2 self-stretch lg:gap-x-6">
-                <form className="relative flex flex-1" action="#" method="GET">
+                <form className="relative flex flex-1" action="#" method="GET" onSubmit={handleSubmit}>
                   <input
-                    id="search-field"
-                    className="block h-full w-full border-0 py-0 pl-4 pr-0 text-gray-900 placeholder:text-gray-400 focus:ring-0 focus:outline-none sm:text-sm"
-                    placeholder="Ask Questions"
+                    className="w-full max-w-md p-2 mb-8 border-transparent placeholder-center focus:ring-0 focus:border-none"
+                    value={input}
+                    placeholder="Say something..."
+                    onChange={handleInputChange}
+                    style={{ lineHeight: '2.5rem' }}  // Adjust based on the height of the input
                   />
                   <button
                     type="button"
                     className="rounded-full ml-3 mt-3 mb-3 bg-title p-2 text-white shadow-sm hover:bg-title focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-title"
                   >
                     <ArrowUpIcon className="h-5 w-5" aria-hidden="true" />
-                </button>
+                  </button>
                 </form>
-
               </div>
             </div>
           </main>
         </div>
+
+
       </div>
     </>
   )
