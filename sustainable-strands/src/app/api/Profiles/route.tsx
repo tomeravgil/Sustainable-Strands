@@ -55,7 +55,7 @@ export async function POST(req: NextApiRequest, res: NextApiResponse){
         const collection = mongoClient.db('Hemp_Dummy_Data').collection('Profiles');
 
         const body = await streamToJson(req.body);
-        console.log('Parsed body:', body);
+
         const result = await collection.insertOne(body);
         return NextResponse.json(result);
 
@@ -73,16 +73,15 @@ export async function PUT(req: NextApiRequest, res: NextApiResponse) {
 
 
         const updateBody = await streamToJson(req.body);
-        console.log("updateBody: ", updateBody);
+ 
         const { id, ...updateData } = updateBody;
-        console.log("id: ", id);
-        console.log("updateData: ", updateData);
+
         const putResult = await collection.updateOne(
             { _id: new ObjectId(id) },
             { $set: updateData }
           )
         
-        console.log("Put result: ", putResult);
+
         return NextResponse.json(putResult);
         // res.status(200).json({ message: 'Profile updated', result: putResult })
 
@@ -99,7 +98,7 @@ export async function DELETE(req: NextApiRequest, res: NextApiResponse){
         const collection = mongoClient.db('Hemp_Dummy_Data').collection('Profiles');
 
         const deleteBody = await streamToJson(req.body);
-        console.log(deleteBody);
+ 
         const deleteId = deleteBody.id
         const deleteResult = await collection.deleteOne({ _id: new ObjectId(deleteId) })
         return NextResponse.json(deleteResult);

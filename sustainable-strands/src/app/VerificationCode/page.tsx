@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { check_code } from '../api/Profile_functs/Verification_Email';
 import { verify_profile } from '../api/Profile_functs/Verification_Email';
 import { delete_used_code } from '../api/Profile_functs/Verification_Email';
-
+import { call_logout, call_login, call_getSession } from '../api/Cookie_Functions/route';
 export default function Home() {
   const [inputValue, setInputValue] = useState<string>('');
 
@@ -14,13 +14,19 @@ export default function Home() {
 
   // Handler for button click
   const handleButtonClick = async () => {
-    console.log('Input Value:', inputValue);
-    const bool = await check_code("henry.babcock@outlook.com", inputValue);
+    const user_data = await call_getSession();
+    const bool = await check_code(user_data["user"]["email"], inputValue);
     if(bool){
-        verify_profile("henry.babcock@outlook.com");
-        delete_used_code("henry.babcock@outlook.com");
+        verify_profile(user_data["user"]["email"]);
+        delete_used_code(user_data["user"]["email"]);
         
-        console.log("Verified");
+        
+        user_data["user"]["verified"] = true;
+        await call_logout();
+
+        const cookie_info = {"Email": user_data["user"]["email"], "Name of Primary Contact": user_data["user"]["name"], "Name of Hemp Company": user_data["user"]["company"], "Verified": user_data["user"]["verified"]}
+        await call_login(cookie_info);
+        //redirect 
 
     }else{
         console.log("Not Verified");

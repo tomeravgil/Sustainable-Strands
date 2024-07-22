@@ -4,13 +4,12 @@ import axios from "axios";
 
 export async function verify_email(email: string, code: string){
     try {
-        console.log("here");
         const res = await fetch('http://localhost:3000/api/Send_Email', { // Ensure the path matches the API route file
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ to: email, subject: "Sustainable Strands Verification" , text: "verification code:" + code }),
+        body: JSON.stringify({ to: email, subject: "Sustainable Strands Verification" , text: "Your verification code is: " + code + "\nThe code will expire in 10 minutes"}),
       });
 
       const data = await res.json();
@@ -35,11 +34,9 @@ export async function send_code(email: string){
         const response = await axios.delete('http://localhost:3000/api/Verification_Api', {
             data : { id }
         })
-        console.log("Response: ", response);
     }
 
     const num = await code();
-    console.log(num);
     verify_email(email, num.toString());
 
     const response = await axios.post('http://localhost:3000/api/Verification_Api',{"email": email, "code": num } ,{});
@@ -64,8 +61,7 @@ export async function verify_profile(email: string){
         id: data.data[0]["_id"],
         "Verified": true
     }
-    const response = await axios.put('http://localhost:3000/api/Profiles', updateData, {})
-    console.log(response);
+    const response = await axios.put('http://localhost:3000/api/Profiles', updateData, {});
 }
 
 export async function delete_used_code(email:string) {
@@ -75,9 +71,7 @@ export async function delete_used_code(email:string) {
     const id = data.data[0]["_id"];
         const response = await axios.delete('http://localhost:3000/api/Verification_Api', {
             data : { id }
-        })
-        console.log("Response: ", response);
-    
+        });
 }
 
 

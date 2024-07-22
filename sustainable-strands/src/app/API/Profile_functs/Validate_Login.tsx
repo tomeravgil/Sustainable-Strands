@@ -9,16 +9,16 @@ export async function validate_login(email: string, password: string){
         params: parameters});
     
     if(user_data.data.length == 0){
-        console.log("no email")
-        return false;
+        //email does not exist in database
+        return [2,{}];
     }
 
     if(bcrypt.compareSync(password, user_data.data[0]["Password"])){
-        console.log("valid")
-        return true;
+         //valid
+        return [1,user_data.data[0]];
     }
-    console.log("Password incorrect");
-    return false;
+    //password is incorrect
+    return [3,{}];
 
 
 }

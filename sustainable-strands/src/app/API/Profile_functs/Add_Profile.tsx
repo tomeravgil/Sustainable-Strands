@@ -12,7 +12,6 @@ export const checkUsername = async(username: string) => {
     const response = await axios.get('http://localhost:3000/api/Profiles',{
         params: {"Username": username}
     });
-    console.log("Number of usernames",response.data.length);
     return response.data.length == 0;
 
 }
@@ -35,8 +34,7 @@ export async function add_profile(formData: any){
       }
       try {
         const response = await axios.post('http://localhost:3000/api/Profiles', profileData,{});
-  
-        console.log( "Profile created: ", response.data);
+        return profileData;
       } catch (error) {
         console.error('Error Posting data:', error);
       }
