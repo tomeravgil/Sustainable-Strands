@@ -62,9 +62,9 @@ export default function Home() {
         <CardHeader>
           <CardTitle className="text-xl">Verify</CardTitle>
           <CardDescription>
-          <p>To further protect you privacy, please enter verification code sent to you emaill.</p>
-          <p>Be sure to check Junk/Spam folders.</p>
-             
+            To further protect you privacy, please enter verification code sent to you emaill.
+            Be sure to check Junk/Spam folders.
+              
           </CardDescription>
         </CardHeader>
         <CardContent>
