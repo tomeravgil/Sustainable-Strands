@@ -1,11 +1,12 @@
-'use client'
+'use client';
 import React, { useState } from 'react';
-import { check_code } from '../api/Profile_functs/Verification_Email';
-import { verify_profile } from '../api/Profile_functs/Verification_Email';
-import { delete_used_code } from '../api/Profile_functs/Verification_Email';
+import { useRouter } from 'next/navigation';
+import { check_code, verify_profile, delete_used_code } from '../api/Profile_functs/Verification_Email';
 import { call_logout, call_login, call_getSession } from '../api/Cookie_Functions/route';
+
 export default function Home() {
   const [inputValue, setInputValue] = useState<string>('');
+  const router = useRouter();
 
   // Handler for input change
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -14,26 +15,34 @@ export default function Home() {
 
   // Handler for button click
   const handleButtonClick = async () => {
-    const user_data = await call_getSession();
-    const bool = await check_code(user_data["user"]["email"], inputValue);
-    if(bool){
-        verify_profile(user_data["user"]["email"]);
-        delete_used_code(user_data["user"]["email"]);
+    try {
+      const user_data = await call_getSession();
+      const finalValue = inputValue || '000000';
+      const isValidCode = await check_code(user_data.user.email, finalValue);
+
+      if (isValidCode) {
+        await verify_profile(user_data.user.email);
+        await delete_used_code(user_data.user.email);
         
-        
-        user_data["user"]["verified"] = true;
+        user_data.user.verified = true;
         await call_logout();
 
-        const cookie_info = {"Email": user_data["user"]["email"], "Name of Primary Contact": user_data["user"]["name"], "Name of Hemp Company": user_data["user"]["company"], "Verified": user_data["user"]["verified"]}
+        const cookie_info = {
+          Email: user_data.user.email,
+          'Name of Primary Contact': user_data.user.name,
+          'Name of Hemp Company': user_data.user.company,
+          Verified: user_data.user.verified,
+        };
+
         await call_login(cookie_info);
-        //redirect 
+        router.push('/Home'); // Navigate to the Home page
 
-    }else{
-        console.log("Not Verified");
+      } else {
+        console.log('Not Verified');
+      }
+    } catch (error) {
+      console.error('An error occurred:', error);
     }
-
-
-    // Perform any action with the input value here
   };
 
   return (
