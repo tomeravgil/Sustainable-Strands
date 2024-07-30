@@ -1,19 +1,11 @@
 'use client';
+'use client';
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { check_code, verify_profile, delete_used_code } from '../api/Profile_functs/Verification_Email';
+import { useRouter } from 'next/navigation';
+import { check_code, verify_profile, delete_used_code } from '../api/Profile_functs/Verification_Email';
 import { call_logout, call_login, call_getSession } from '../api/Cookie_Functions/route';
-import { Button } from "@/components/ui/button"
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
-import Link from 'next/link';
 
 export default function Home() {
   const [inputValue, setInputValue] = useState<string>('');
