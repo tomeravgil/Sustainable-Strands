@@ -1,10 +1,7 @@
-'use client'
-
-import { useChat } from 'ai/react'
-import Transaction_Data_Card from "./components/ui/transaction_cards";
-import Hemp_Distrobution_Graph from "./components/ui/hemp_distribution_graph";
-import LineGraph from "./Analytics/linegraph"
-import PieGraph from "./Analytics/piegraph";
+// src/app/page.tsx
+"use client"
+import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 
 export default function Home() {
   const router = useRouter();
