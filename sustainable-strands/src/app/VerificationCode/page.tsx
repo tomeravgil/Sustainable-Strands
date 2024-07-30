@@ -3,6 +3,17 @@ import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { check_code, verify_profile, delete_used_code } from '../api/Profile_functs/Verification_Email';
 import { call_logout, call_login, call_getSession } from '../api/Cookie_Functions/route';
+import { Button } from "@/components/ui/button"
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card"
+import { Input } from "@/components/ui/input"
+import { Label } from "@/components/ui/label"
+import Link from 'next/link';
 
 export default function Home() {
   const [inputValue, setInputValue] = useState<string>('');
@@ -46,14 +57,38 @@ export default function Home() {
   };
 
   return (
-    <div>
-      <input
-        className='text-black'
-        type='text'
-        value={inputValue}
-        onChange={handleInputChange}
-      />
-      <button onClick={handleButtonClick}>Submit</button>
+    <div className="flex items-center justify-center min-h-screen bg-gray-100">
+      <Card className="mx-auto max-w-sm">
+        <CardHeader>
+          <CardTitle className="text-xl">Verify</CardTitle>
+          <CardDescription>
+          <p>To further protect you privacy, please enter verification code sent to you emaill.</p>
+          <p>Be sure to check Junk/Spam folders.</p>
+             
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <div className="grid gap-4">
+            <div className="grid gap-2">
+              <Label htmlFor="password">Enter 6 digit verification code</Label>
+              <Input className='text-black' type='text' value={inputValue} onChange={handleInputChange} />
+            </div>
+            <Button type="submit" className="w-full" onClick={handleButtonClick}> 
+              Submit
+            </Button>
+          </div>
+        </CardContent>
+      </Card>
     </div>
+
+        
+
+    
   );
 }
+
+
+
+
+
+
