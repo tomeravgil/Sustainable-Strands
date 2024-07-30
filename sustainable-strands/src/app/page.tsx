@@ -2,7 +2,7 @@
 
 import { useChat } from 'ai/react'
 import Transaction_Data_Card from "./components/ui/transaction_cards";
-import Hemp_Distrobution_Graph from "./components/ui/hemp_distrobution_graph";
+import Hemp_Distrobution_Graph from "./components/ui/hemp_distribution_graph";
 import LineGraph from "./Analytics/linegraph"
 import PieGraph from "./Analytics/piegraph";
 

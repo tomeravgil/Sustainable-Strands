@@ -21,8 +21,8 @@ const LineGraph = ({ chartData }) => {
             data: {
                 labels: chartData.labels, // Ensure you provide the correct labels
                 datasets: [{
-                    label: "Monthly Income", // Set to an empty string to hide the label
-                    backgroundColor: 'blue',
+                    label: "", // Set to an empty string to hide the label
+                    // backgroundColor: 'blue',
                     borderColor: 'black',
                     borderWidth: 1,
                     data: chartData.values,
@@ -33,19 +33,30 @@ const LineGraph = ({ chartData }) => {
                     title: {
                         display: false // Hide the title
                     },
+                    legend: {
+                        display: false // Hide the legend
+                    }
                 },
                 scales: {
                     x: {
+                        display:false,
                         title: {
                             display: true,
                             text: 'Months'
-                        }
+                        },
+                        ticks: {
+                            display: false // Hide x-axis ticks
+                        },
                     },
                     y: {
+                        display:false,
                         title: {
                             display: true,
                             text: 'Income'
-                        }
+                        },
+                        ticks: {
+                            display: false // Hide y-axis ticks
+                        },
                     }
                 },
                 elements: {
