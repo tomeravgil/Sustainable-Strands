@@ -1,41 +1,15 @@
-'use client'
-
-import { useChat } from 'ai/react'
-import Transaction_Data_Card from "./components/ui/transaction_cards";
-import Hemp_Distrobution_Graph from "./components/ui/hemp_distribution_graph";
-import LineGraph from "./Analytics/linegraph"
-import PieGraph from "./Analytics/piegraph";
+// src/app/page.tsx
+"use client"
+import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 
 export default function Home() {
-  const { messages, input, handleInputChange, handleSubmit } = useChat()
+  const router = useRouter();
 
-  return (
-    <div className="flex flex-col w-full max-w-md py-24 mx-auto stretch h-full">
-      {messages.length > 0 ? messages.map(m => (
-            <div key={m.id} className="whitespace-pre-wrap">
-              {m.role === 'user' ? 'User: ' : 'AI: '}
-              {m.content}
-            </div>
-          ))
-        : null}
+  useEffect(() => {
+    // Ensure the router is ready befo re pushing
+    router.push('/Home');
+  }, [router]);
 
-      <form onSubmit={handleSubmit}>
-        <input
-          className="fixed bottom-0 w-full max-w-md p-2 mb-8 border border-gray-300 rounded shadow-xl"
-          value={input}
-          placeholder="Say something..."
-          onChange={handleInputChange}
-        />
-      </form>
-    </div>
-     
-     
-
-
-   
-  )
-   
-    
-
-};
-
+  return null; // or a loading spinner, or any other placeholder
+}
