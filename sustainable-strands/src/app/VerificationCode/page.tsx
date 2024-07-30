@@ -1,4 +1,5 @@
 'use client';
+'use client';
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { check_code, verify_profile, delete_used_code } from '../api/Profile_functs/Verification_Email';
