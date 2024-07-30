@@ -39,7 +39,7 @@ export default function Home() {
 const navigation = {
   solutions: [
     { name: 'Marketing', href: '#' },
-    { name: 'Analytics', href: '#' },
+    { name: 'Analytics', href: '/SellerPage' },
     { name: 'Commerce', href: '#' },
     { name: 'Insights', href: '#' },
   ],
@@ -538,7 +538,8 @@ export function HoverBorderGradientDemo() {
         className="dark:bg-green  light:text-white dark:text-black flex items-center text-sm transition ease-in hover:text-text dark:hover:text-white delay-100"
         duration={.25}
       >
-        <span >Get Started</span>
+        
+        <a href="/SignUp">Get Started</a>
       </HoverBorderGradient>
   );
 }

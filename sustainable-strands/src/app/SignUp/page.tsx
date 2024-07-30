@@ -2,7 +2,7 @@
 import Link from "next/link"
 import axios from "axios"
 import { send_code } from "../api/Profile_functs/Verification_Email"
-import { useState, ChangeEvent, FormEvent } from "react"
+import { useState, ChangeEvent, FormEvent, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import {
   Card,
@@ -16,6 +16,7 @@ import { Label } from "@/components/ui/label"
 import { add_profile } from "../api/Profile_functs/Add_Profile"
 import { checkUsername } from "../api/Profile_functs/Add_Profile"
 import {call_login} from "../api/Cookie_Functions/route"
+import { useRouter } from 'next/navigation';
 
 interface FormData {
   firstName: string;
@@ -30,6 +31,7 @@ interface FormData {
 
 
 export default function SignUp(){
+    
     return (
         <main className="flex items-center justify-center min-h-screen dark:bg-black">
             <SignUpForm />
@@ -38,6 +40,7 @@ export default function SignUp(){
 }
 
 function SignUpForm() {
+  const router = useRouter();
   const [formData, setFormData] = useState<FormData>({
     firstName: "",
     lastName: "",
@@ -57,7 +60,13 @@ function SignUpForm() {
     }));
   };
 
-  const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
+  
+
+  const HandleSubmit = async (e: FormEvent<HTMLFormElement>) => {
+    
+    
+    
+    
     e.preventDefault();
     const usernameAvalable = await checkUsername(formData.username);
     if(usernameAvalable){
@@ -65,6 +74,10 @@ function SignUpForm() {
       const response =  await add_profile(formData);
       send_code(formData.email);
       call_login(response);
+
+
+      router.push('/VerificationCode');
+      
       //redirect to verification code page
 
     }else{
@@ -85,7 +98,7 @@ function SignUpForm() {
         </CardDescription>
       </CardHeader>
       <CardContent>
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={HandleSubmit}>
           <div className="grid gap-4">
             <div className="grid grid-cols-2 gap-4">
               <div className="grid gap-2">
