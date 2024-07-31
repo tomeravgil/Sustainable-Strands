@@ -27,7 +27,7 @@ export async function BarGraphData(){
     for (let key in hemp_count) {
        if (hemp_count.hasOwnProperty(key)) {
 
-            const response = await axios.get('http://localhost:3000/API/Transactions', {
+            const response = await axios.get('http://localhost:3000/api/Transactions', {
                 params: {'Hemp product type' : key}
             });
             hemp_count[key] = response.data.length; // Convert the string input to a number
@@ -110,7 +110,7 @@ export async function PieGraphData(product_type: string){
     }
     
 
-    const response = await axios.get('http://localhost:3000/API/Transactions', {
+    const response = await axios.get('http://localhost:3000/api/Transactions', {
         params: {'Hemp product type' : product_type}
     });
 
@@ -150,7 +150,7 @@ export async function LineGraphData(comp_name) {
       transactionsByMonth[yearMonth] = 0;
     }
   
-    const response = await axios.get('http://localhost:3000/API/Transactions', {
+    const response = await axios.get('http://localhost:3000/api/Transactions', {
       params: { 'Name of Hemp Company': comp_name }
     });
   
