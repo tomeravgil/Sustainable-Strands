@@ -47,6 +47,7 @@ import {
 import IncomeGraph from "../components/ui/income_graph";
 import Hemp_Distribution_Graph from "../components/ui/hemp_distribution_graph";
 import axios, { AxiosResponse } from "axios";
+import Transaction_Data from "../Functions/Transaction_Data/transaction_data";
 
 export default function SellerPage() {
   return (
@@ -57,18 +58,39 @@ export default function SellerPage() {
 }
 
 type SessionData = AxiosResponse<any, any> | null;
+type TransactionData = {
+  prev_month_income: number,
+  cur_month_income: number,
+  percent_increase: number,
+  lifetime_income: number,
+  annual_income: number,
+  cur_month_transactions: number,
+  prev_month_transactions:number,
+  annual_transactions:number,
+  lifetime_transactions: number
+}
 export function Dashboard() {
   const [sessionVals, setSessionVals] = useState<SessionData>(null);
+  const [transaction_data, setTransaction_data] = useState<TransactionData | null>(null);
 
   useEffect(() => {
     const fetchData = async () => {
       const session = await axios.get("http://localhost:3000/Functions/Cookie_Functions", {});
+      const transaction_data_1 =  await Transaction_Data(session?.data?.user?.company);
+      
       setSessionVals(session);
+      setTransaction_data(transaction_data_1);
     };
     fetchData();
   }, []);
 
+  
   const company_name = sessionVals?.data?.user?.company;
+  const curr_month_income = transaction_data?.cur_month_income as number;
+  const prev_month_income = transaction_data?.prev_month_income as number;
+  const income_change = (curr_month_income/prev_month_income) * 100;
+  const total_income = transaction_data?.lifetime_income as number;
+  
 
   return (
     <div className="flex min-h-screen w-full flex-col">
@@ -162,7 +184,7 @@ export function Dashboard() {
               <DollarSign className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
-              <div className="text-2xl font-bold">$45,231.89</div>
+              {total_income && <div className="text-2xl font-bold">${total_income.toFixed(2)}</div>}
               <p className="text-xs text-muted-foreground">+20.1% from last month</p>
             </CardContent>
           </Card>
@@ -172,7 +194,7 @@ export function Dashboard() {
               <CreditCard className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
-              <div className="text-2xl font-bold">+2350</div>
+              <div className="text-2xl font-bold">+{curr_month_income}</div>
               <p className="text-xs text-muted-foreground">+180.1% from last month</p>
             </CardContent>
           </Card>
@@ -182,18 +204,18 @@ export function Dashboard() {
               <Activity className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
-              <div className="text-2xl font-bold">+2350</div>
-              <p className="text-xs text-muted-foreground">+180.1% from last month</p>
+              <div className="text-2xl font-bold">{curr_month_income}</div>
+              <p className="text-xs text-muted-foreground">{income_change.toFixed(2)}% of last month</p>
              {company_name && <IncomeGraph comp_name={company_name} />}
             </CardContent>
           </Card>
           <Card x-chunk="dashboard-01-chunk-3">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">Hemp Distribution</CardTitle>
+              <CardTitle className="text-sm font-medium">Sales Distrobution</CardTitle>
               <Activity className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
-              <div className="text-2xl font-bold">+5 different types</div>
+              <div className="text-2xl font-bold">7 Total Transactions</div>
               {company_name && <Hemp_Distribution_Graph comp_name={company_name} />}
             </CardContent>
           </Card>

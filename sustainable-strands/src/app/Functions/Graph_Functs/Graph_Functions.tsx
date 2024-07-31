@@ -26,7 +26,7 @@ export async function BarGraphData(comp_name){
 
     for (let key in hemp_count) {
        if (hemp_count.hasOwnProperty(key)) {
-            console.log(comp_name);
+            
             const response = await axios.get('http://localhost:3000/api/Transactions', {
                 params: {'Hemp product type' : key, 'Name of Hemp Company' : comp_name}
             });
@@ -38,7 +38,7 @@ export async function BarGraphData(comp_name){
     .sort(([, valueA], [, valueB]) => valueB - valueA); // Sort in descending order
 
     const sortedHempCount = Object.fromEntries(sortedArray);
-    console.log(sortedHempCount);
+    //console.log(sortedHempCount);
     return sortedHempCount;
     
     
@@ -149,7 +149,7 @@ export async function LineGraphData(comp_name) {
       const yearMonth = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
       transactionsByMonth[yearMonth] = 0;
     }
-    console.log(comp_name);
+    
     const response = await axios.get('http://localhost:3000/api/Transactions', {
       params: { 'Name of Hemp Company': comp_name }
     });

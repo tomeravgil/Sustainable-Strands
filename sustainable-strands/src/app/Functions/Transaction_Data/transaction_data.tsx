@@ -30,7 +30,7 @@ export default async function Transaction_Data(company_name){
 
     
 
-    const response = await axios.get('http://localhost:3000/API/Transactions', {
+    const response = await axios.get('http://localhost:3000/api/Transactions', {
         params: {'Name of Hemp Company' : company_name}
     });
     
