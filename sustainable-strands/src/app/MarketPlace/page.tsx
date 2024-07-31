@@ -1,8 +1,10 @@
 "use client"
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import NavBar from "../components/NavBar/navBar";
 import { MdOutlineMailOutline } from "react-icons/md";
 import { MdOutlineLocalPhone } from "react-icons/md";
+import axios, { AxiosResponse } from 'axios';
+import { Button } from "@headlessui/react";
 
 interface Business {
     BusinessName: string;
@@ -15,39 +17,58 @@ interface Business {
     imageSrc: string;
 }
 
+type SessionData = AxiosResponse<any, any> | null;
+
 export default function MarketPlace(){
+  const [sessionVals, setSessionVals] = useState<SessionData>(null);;
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const session = await axios.get('http://localhost:3000/api/Cookie_Functions', {});
+      setSessionVals(session);
+    };
+    fetchData();
+  },[]);
+
+  // useEffect(() =>{
+  //   console.log(sessionVals);
+  // },[sessionVals]);
+  // console.log(sessionVals);
     const businesses: Business[] = [
         { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
         { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
         { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
-        { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
-        { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
-        { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
-        { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
-        { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
-        { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
-        { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
-        { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
-        { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
-        { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
-        { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
-        { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
-        { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
-        { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
-        { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
-        { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
-        { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
-        { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
+        // { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
+        // { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
+        // { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
+        // { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
+        // { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
+        // { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
+        // { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
+        // { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
+        // { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
+        // { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
+        // { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
+        // { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
+        // { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
+        // { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
+        // { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
+        // { BusinessName: "Business 1", businessType: "Retail", Primary: "Card 1", Town: "Town 1", State: "MA", Phone: "123-456-7890", Email: "email1@example.com", imageSrc: "" },
+        // { BusinessName: "Business 2", businessType: "Services", Primary: "Card 2", Town: "Town 2", State: "NY", Phone: "234-567-8901", Email: "email2@example.com", imageSrc: "" },
+        // { BusinessName: "Business 3", businessType: "Manufacturing", Primary: "Card 3", Town: "Town 3", State: "CA", Phone: "345-678-9012", Email: "email3@example.com", imageSrc: "" },
         // Add more businesses as needed
       ];
 
     return (
         <main className="bg-base-100">
             <NavBar />
+            <Button>
+              Profile
+            </Button>
             <Filter/>
             <div className="mt-10 bg-base grid grid-cols-1 md:grid-cols-4 sm:grid-cols-3 gap-2 mx-4 ">
             {businesses.map((business) => (
-            <Card business={business} />
+            <Card key={business.BusinessName} business={business} />
             ))}
             </div>
             <Footer/>

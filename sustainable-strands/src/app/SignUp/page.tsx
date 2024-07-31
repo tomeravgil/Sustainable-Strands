@@ -1,7 +1,7 @@
 "use client"
 import Link from "next/link"
 import axios from "axios"
-import { send_code } from "../api/Profile_functs/Verification_Email"
+import { send_code } from "../Functions/Profile_functs/Verification_Email"
 import { useState, ChangeEvent, FormEvent, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import {
@@ -13,9 +13,9 @@ import {
 } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
-import { add_profile } from "../api/Profile_functs/Add_Profile"
-import { checkUsername } from "../api/Profile_functs/Add_Profile"
-import {call_login} from "../api/Cookie_Functions/route"
+import { add_profile } from "../Functions/Profile_functs/Add_Profile"
+import { checkUsername } from "../Functions/Profile_functs/Add_Profile"
+import {call_login} from "../Functions/Cookie_Functions/route"
 import { useRouter } from 'next/navigation';
 
 interface FormData {

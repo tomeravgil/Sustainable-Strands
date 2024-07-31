@@ -1,5 +1,5 @@
 import React from 'react';
-import {PieGraphData} from '../.././API/Graph_Functs/Graph_Functions';
+import {PieGraphData} from '../../Functions/Graph_Functs/Graph_Functions';
 import PieGraph from "../../Analytics/piegraph";
 
 type Hemp_String = {

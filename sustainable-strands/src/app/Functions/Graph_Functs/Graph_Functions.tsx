@@ -5,7 +5,7 @@ import axios from "axios"
 
 
 
-export async function BarGraphData(){
+export async function BarGraphData(comp_name){
 
     type HempCount = {
         [key: string]: number;
@@ -27,8 +27,8 @@ export async function BarGraphData(){
     for (let key in hemp_count) {
        if (hemp_count.hasOwnProperty(key)) {
 
-            const response = await axios.get('http://localhost:3000/API/Transactions', {
-                params: {'Hemp product type' : key}
+            const response = await axios.get('http://localhost:3000/api/Transactions', {
+                params: {'Hemp product type' : key, 'Name of Hemp Company' : comp_name}
             });
             hemp_count[key] = response.data.length; // Convert the string input to a number
         }
@@ -37,8 +37,8 @@ export async function BarGraphData(){
     const sortedArray = Object.entries(hemp_count)
     .sort(([, valueA], [, valueB]) => valueB - valueA); // Sort in descending order
 
-// Convert the sorted array back to an object
     const sortedHempCount = Object.fromEntries(sortedArray);
+    console.log(sortedHempCount);
     return sortedHempCount;
     
     
@@ -110,7 +110,7 @@ export async function PieGraphData(product_type: string){
     }
     
 
-    const response = await axios.get('http://localhost:3000/API/Transactions', {
+    const response = await axios.get('http://localhost:3000/api/Transactions', {
         params: {'Hemp product type' : product_type}
     });
 
@@ -137,20 +137,20 @@ export async function PieGraphData(product_type: string){
 }
 
 
-
 export async function LineGraphData(comp_name) {
     const transactionsByMonth = {};
     const currentDate = new Date();
     const currentYear = currentDate.getFullYear();
     const currentMonth = currentDate.getMonth() + 1;
   
-    // Initialize transactionsByMonth object with all months in the past year
-    for (let month = 1; month <= 12; month++) {
-      const yearMonth = `${currentYear - (currentMonth < month ? 1 : 0)}-${String(month).padStart(2, '0')}`;
+    // Initialize transactionsByMonth object with all months in the past year, starting from a year ago
+    for (let monthOffset = 12; monthOffset >= 0; monthOffset--) {
+      const date = new Date(currentYear, currentMonth - monthOffset - 1, 1);
+      const yearMonth = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
       transactionsByMonth[yearMonth] = 0;
     }
   
-    const response = await axios.get('http://localhost:3000/API/Transactions', {
+    const response = await axios.get('http://localhost:3000/api/Transactions', {
       params: { 'Name of Hemp Company': comp_name }
     });
   
@@ -159,15 +159,27 @@ export async function LineGraphData(comp_name) {
       const yearMonth = `${transactionDate.getFullYear()}-${String(transactionDate.getMonth() + 1).padStart(2, '0')}`;
   
       // Check if the transaction date is within the past year
-      if (transactionDate >= new Date(currentYear - 1, currentMonth, 1)) {
+      const oneYearAgo = new Date(currentYear - 1, currentMonth - 1, 1);
+      if (transactionDate >= oneYearAgo) {
         // Extract income from the Total Sale field
         const totalSaleString = response.data[i]['Total Sale (US)'].replace(/[^0-9.-]+/g, '');
         const income = parseFloat(totalSaleString);
   
         // Update income for existing month-year
-        transactionsByMonth[yearMonth] += income;
+        if (transactionsByMonth[yearMonth] !== undefined) {
+          transactionsByMonth[yearMonth] += income;
+        }
       }
     }
   
-    return transactionsByMonth;
+    // Convert transactionsByMonth to an array and sort it by date
+    const sortedTransactions = Object.entries(transactionsByMonth).sort(([a], [b]) => new Date(a) - new Date(b));
+  
+    // Convert back to an object (if needed) or return the sorted array
+    const sortedTransactionsByMonth = sortedTransactions.reduce((acc, [key, value]) => {
+      acc[key] = value;
+      return acc;
+    }, {});
+  
+    return sortedTransactionsByMonth;
   }

@@ -43,6 +43,8 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
+import IncomeGraph from "../components/ui/income_graph"
+import Hemp_Distribution_Graph from "../components/ui/hemp_distribution_graph"
 
 export default function SellerPage(){
     return (
@@ -194,9 +196,9 @@ export function Dashboard() {
           <Card x-chunk="dashboard-01-chunk-1">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
               <CardTitle className="text-sm font-medium">
-                Subscriptions
+                Sales
               </CardTitle>
-              <Users className="h-4 w-4 text-muted-foreground" />
+              <CreditCard className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
               <div className="text-2xl font-bold">+2350</div>
@@ -207,26 +209,26 @@ export function Dashboard() {
           </Card>
           <Card x-chunk="dashboard-01-chunk-2">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">Sales</CardTitle>
-              <CreditCard className="h-4 w-4 text-muted-foreground" />
+              <CardTitle className="text-sm font-medium">Monthly Income</CardTitle>
+              
+              <Activity className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
-              <div className="text-2xl font-bold">+12,234</div>
+            <div className="text-2xl font-bold">+2350</div>
               <p className="text-xs text-muted-foreground">
-                +19% from last month
+                +180.1% from last month
               </p>
+            <IncomeGraph comp_name={"Hemp Co."} />
             </CardContent>
           </Card>
           <Card x-chunk="dashboard-01-chunk-3">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">Active Now</CardTitle>
+              <CardTitle className="text-sm font-medium">Hemp Distribution</CardTitle>
               <Activity className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
-              <div className="text-2xl font-bold">+573</div>
-              <p className="text-xs text-muted-foreground">
-                +201 since last hour
-              </p>
+              <div className="text-2xl font-bold">+5 different types</div>
+              <Hemp_Distribution_Graph comp_name={"Hemp Co."}/>
             </CardContent>
           </Card>
         </div>

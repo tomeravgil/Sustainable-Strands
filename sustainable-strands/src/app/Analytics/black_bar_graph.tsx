@@ -33,7 +33,7 @@ const BarGraph = ({ chartData }) => {
                     borderColor: 'rgba(0, 0, 255, 1)',
                     borderWidth: 1,
                     data: chartData.values,
-                    borderRadius: 15
+                    borderRadius: 5
                 }]
             },
             options: {
