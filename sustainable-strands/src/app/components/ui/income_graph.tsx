@@ -19,7 +19,6 @@ const IncomeGraph = ({ comp_name }) => {
 
     return (
         <div>
-            <h2>Monthly Income Graph</h2>
             <LineGraph chartData={chartData} />
         </div>
     );
