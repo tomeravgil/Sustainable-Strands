@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from 'react';
 import LineGraph from "../../Analytics/linegraph"; // Adjust the import path as necessary
-import { LineGraphData } from '../../API/Graph_Functs/Graph_Functions'; // Adjust the import path as necessary
+import { LineGraphData } from '../../Functions/Graph_Functs/Graph_Functions'; // Adjust the import path as necessary
 
 const IncomeGraph = ({ comp_name }) => {
     const [chartData, setChartData] = useState({ labels: [], values: [] }); // Initialize with empty labels and values

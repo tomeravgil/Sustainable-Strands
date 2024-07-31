@@ -16,8 +16,8 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 
-import {call_login} from "../api/Cookie_Functions/route";
-import { validate_login } from "../api/Profile_functs/Validate_Login";
+import {call_login} from "../Functions/Cookie_Functions/route";
+import { validate_login } from "../Functions/Profile_functs/Validate_Login";
 
 
 export default function Login() {

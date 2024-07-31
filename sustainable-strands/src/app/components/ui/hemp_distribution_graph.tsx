@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect, useState } from 'react';
-import {BarGraphData} from '../../API/Graph_Functs/Graph_Functions';
+import {BarGraphData} from '../../Functions/Graph_Functs/Graph_Functions';
 import BarGraph from "../../Analytics/black_bar_graph";
 
 export default function Hemp_Distribution_Graph() {
