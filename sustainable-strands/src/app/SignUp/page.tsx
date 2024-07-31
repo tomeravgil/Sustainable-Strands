@@ -120,20 +120,20 @@ function SignUpForm() {
                 <Input id="phone" placeholder="(123) 456-7890" required onChange={handleChange} />
               </div>
             </div>
-            <div className="grid grid-cols-2 gap-4">
+            
               <div className="grid gap-2">
                 <Label htmlFor="company">Company Name</Label>
                 <Input id="company" placeholder="A&B Co." required onChange={handleChange} />
               </div>
-              <div className="grid gap-2">
+              {/* <div className="grid gap-2">
                 <Label htmlFor="state">Company State</Label>
                 <Input id="state" placeholder="MN" required onChange={handleChange} />
-              </div>
-            </div>
-            <div className="grid gap-2">
+              </div> */}
+           
+            {/* <div className="grid gap-2">
               <Label htmlFor="username">Username</Label>
               <Input id="username" onChange={handleChange} />
-            </div>
+            </div> */}
             <div className="grid gap-2">
               <Label htmlFor="password">Password</Label>
               <Input id="password" type="password" onChange={handleChange} />
