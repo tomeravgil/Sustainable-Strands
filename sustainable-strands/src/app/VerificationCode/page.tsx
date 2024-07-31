@@ -71,7 +71,7 @@ export default function Home() {
           <div className="grid gap-4">
             <div className="grid gap-2">
               <Label htmlFor="password">Enter 6 digit verification code</Label>
-              <Input className='text-black' type='text' value={inputValue} onChange={handleInputChange} />
+              <Input placeholder='000000' className='text-black' type='text' value={inputValue} onChange={handleInputChange} />
             </div>
             <Button type="submit" className="w-full" onClick={handleButtonClick}> 
               Submit
