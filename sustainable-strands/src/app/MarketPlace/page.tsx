@@ -21,7 +21,6 @@ type SessionData = AxiosResponse<any, any> | null;
 
 export default function MarketPlace(){
   const [sessionVals, setSessionVals] = useState<SessionData>(null);;
-
   useEffect(() => {
     const fetchData = async () => {
       const session = await axios.get('http://localhost:3000/api/Cookie_Functions', {});
