@@ -14,7 +14,7 @@ import {
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { add_profile } from "../Functions/Profile_functs/Add_Profile"
-import { checkUsername } from "../Functions/Profile_functs/Add_Profile"
+import { checkEmail } from "../Functions/Profile_functs/Add_Profile"
 import {call_login} from "../Functions/Cookie_Functions/route"
 import { useRouter } from 'next/navigation';
 
@@ -68,8 +68,8 @@ function SignUpForm() {
     
     
     e.preventDefault();
-    const usernameAvalable = await checkUsername(formData.username);
-    if(usernameAvalable){
+    const emailAvalable = await checkEmail(formData.email);
+    if(emailAvalable){
 
       const response =  await add_profile(formData);
       send_code(formData.email);
@@ -81,7 +81,7 @@ function SignUpForm() {
       //redirect to verification code page
 
     }else{
-      console.log("Username taken")
+      console.log("Email taken")
 
     }
     
@@ -125,15 +125,6 @@ function SignUpForm() {
                 <Label htmlFor="company">Company Name</Label>
                 <Input id="company" placeholder="A&B Co." required onChange={handleChange} />
               </div>
-              {/* <div className="grid gap-2">
-                <Label htmlFor="state">Company State</Label>
-                <Input id="state" placeholder="MN" required onChange={handleChange} />
-              </div> */}
-           
-            {/* <div className="grid gap-2">
-              <Label htmlFor="username">Username</Label>
-              <Input id="username" onChange={handleChange} />
-            </div> */}
             <div className="grid gap-2">
               <Label htmlFor="password">Password</Label>
               <Input id="password" type="password" onChange={handleChange} />

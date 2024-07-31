@@ -8,9 +8,9 @@ export const hashPassword = async (password: string) => {
     return hashedPassword;
   };
 
-export const checkUsername = async(username: string) => {
+export const checkEmail = async(email: string) => {
     const response = await axios.get('http://localhost:3000/api/Profiles',{
-        params: {"Username": username}
+        params: {"Email": email}
     });
     return response.data.length == 0;
 
