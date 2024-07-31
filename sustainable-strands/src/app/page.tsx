@@ -13,13 +13,3 @@ export default function Home() {
 
   return null; // or a loading spinner, or any other placeholder
 }
-
-  const router = useRouter();
-
-  useEffect(() => {
-    // Ensure the router is ready befo re pushing
-    router.push('/Home');
-  }, [router]);
-
-  return null; // or a loading spinner, or any other placeholder
-}
