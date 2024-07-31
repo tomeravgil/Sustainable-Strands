@@ -1,9 +1,9 @@
 'use client'
 import Link from "next/link";
 import { useState } from "react";
-import { getSession, login, logout } from "../../../lib/auth";
-import axios from "axios"
-import { redirect } from "next/navigation";
+import { useRouter } from "next/navigation";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 import { Button } from "@/components/ui/button";
 import {
@@ -16,50 +16,62 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 
-import {call_login} from "../api/Cookie_Functions/route";
+import { call_login } from "../api/Cookie_Functions/route";
 import { validate_login } from "../api/Profile_functs/Validate_Login";
-
 
 export default function Login() {
   return (
     <main className="flex items-center justify-center min-h-screen dark:bg-black">
       <LoginForm />
+      <ToastContainer />
     </main>
   );
 }
 
 function LoginForm() {
+  const router = useRouter();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-  // const session = getSession();
-  
+  const [error, setError] = useState("");
 
   const handleSubmit = async (event: React.FormEvent) => {
-    //'use server';
     event.preventDefault();
     const loginData = {
       email,
       password,
     };
-    const check_login = await validate_login(loginData.email,loginData.password);
-    switch(check_login[0]){
+
+    const check_login = await validate_login(loginData.email, loginData.password);
+    switch (check_login[0]) {
       case 1:
-        //valid
+        // Valid login
         await call_login(check_login[1]);
+        toast.success('Login successful!', {
+          position: "top-right",
+          autoClose: 3000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+        });
+        setTimeout(() => {
+          router.push('/Home');
+        }, 3000); // Delay to allow the user to see the toast notification
         break;
       case 2:
-        //email does not exist in database
-        console.log('email does not exist in database');
+        // Email does not exist in database
+        setError("Email does not exist in database");
         break;
       case 3:
-        //password is incorrect
-        console.log('password is incorrect');
+        // Password is incorrect
+        setError("Password is incorrect");
         break;
-
+      default:
+        setError("An unknown error occurred");
+        break;
     }
-
   };
-  
 
   return (
     <Card className="mx-auto max-w-sm dark:bg-gray-300">
@@ -80,6 +92,7 @@ function LoginForm() {
               required
               value={email}
               onChange={(e) => setEmail(e.target.value)}
+              className={error ? "border-red-500" : ""}
             />
           </div>
           <div className="grid gap-2">
@@ -95,8 +108,10 @@ function LoginForm() {
               required
               value={password}
               onChange={(e) => setPassword(e.target.value)}
+              className={error ? "border-red-500" : ""}
             />
           </div>
+          {error && <div className="text-red-500 text-sm">{error}</div>}
           <Button
             type="submit"
             className="w-full dark:bg-white dark:text-black hover:bg-black hover:text-white"
