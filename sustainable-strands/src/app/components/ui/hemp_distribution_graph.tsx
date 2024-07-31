@@ -4,7 +4,7 @@ import {BarGraphData} from '../../Functions/Graph_Functs/Graph_Functions';
 import BarGraph from "../../Analytics/black_bar_graph";
 
 type string_json = {comp_name:string};
-export default function Hemp_Distribution_Graph({ comp_name } :string_json ) {
+const Hemp_Distribution_Graph = ({ comp_name }) => {
 
   
     interface ChartData {
@@ -28,4 +28,5 @@ export default function Hemp_Distribution_Graph({ comp_name } :string_json ) {
     return (
       <BarGraph chartData={chartData}></BarGraph>
     );
-}
+};
+export default Hemp_Distribution_Graph;

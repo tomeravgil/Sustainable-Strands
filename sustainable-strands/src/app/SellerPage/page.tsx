@@ -1,4 +1,5 @@
-import Link from "next/link"
+"use client";
+import Link from "next/link";
 import {
   Activity,
   ArrowUpRight,
@@ -9,22 +10,22 @@ import {
   Package2,
   Search,
   Users,
-} from "lucide-react"
-
+} from "lucide-react";
+import React, { useEffect, useState } from "react";
 import {
   Avatar,
   AvatarFallback,
   AvatarImage,
-} from "@/components/ui/avatar"
-import { Badge } from "@/components/ui/badge"
-import { Button } from "@/components/ui/button"
+} from "@/components/ui/avatar";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
   CardDescription,
   CardHeader,
   CardTitle,
-} from "@/components/ui/card"
+} from "@/components/ui/card";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -32,9 +33,9 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu"
-import { Input } from "@/components/ui/input"
-import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
+} from "@/components/ui/dropdown-menu";
+import { Input } from "@/components/ui/input";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import {
   Table,
   TableBody,
@@ -42,107 +43,83 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/ui/table"
-import IncomeGraph from "../components/ui/income_graph"
-import Hemp_Distribution_Graph from "../components/ui/hemp_distribution_graph"
+} from "@/components/ui/table";
+import IncomeGraph from "../components/ui/income_graph";
+import Hemp_Distribution_Graph from "../components/ui/hemp_distribution_graph";
+import axios, { AxiosResponse } from "axios";
 
-export default function SellerPage(){
-    return (
-        <main className="">
-            <Dashboard />
-        </main>
-    )
+export default function SellerPage() {
+  return (
+    <main className="">
+      <Dashboard />
+    </main>
+  );
 }
 
-
+type SessionData = AxiosResponse<any, any> | null;
 export function Dashboard() {
+  const [sessionVals, setSessionVals] = useState<SessionData>(null);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const session = await axios.get("http://localhost:3000/Functions/Cookie_Functions", {});
+      setSessionVals(session);
+    };
+    fetchData();
+  }, []);
+
+  const company_name = sessionVals?.data?.user?.company;
+
   return (
     <div className="flex min-h-screen w-full flex-col">
       <header className="sticky top-0 flex h-16 items-center gap-4 border-b bg-background px-4 md:px-6">
         <nav className="hidden flex-col gap-6 text-lg font-medium md:flex md:flex-row md:items-center md:gap-5 md:text-sm lg:gap-6">
-          <Link
-            href="#"
-            className="flex items-center gap-2 text-lg font-semibold md:text-base"
-          >
+          <Link href="#" className="flex items-center gap-2 text-lg font-semibold md:text-base">
             <Package2 className="h-6 w-6" />
             <span className="sr-only">Acme Inc</span>
           </Link>
-          <Link
-            href="#"
-            className="text-foreground transition-colors hover:text-foreground"
-          >
+          <Link href="#" className="text-foreground transition-colors hover:text-foreground">
             Dashboard
           </Link>
-          <Link
-            href="#"
-            className="text-muted-foreground transition-colors hover:text-foreground"
-          >
+          <Link href="#" className="text-muted-foreground transition-colors hover:text-foreground">
             Orders
           </Link>
-          <Link
-            href="#"
-            className="text-muted-foreground transition-colors hover:text-foreground"
-          >
+          <Link href="#" className="text-muted-foreground transition-colors hover:text-foreground">
             Products
           </Link>
-          <Link
-            href="#"
-            className="text-muted-foreground transition-colors hover:text-foreground"
-          >
+          <Link href="#" className="text-muted-foreground transition-colors hover:text-foreground">
             Customers
           </Link>
-          <Link
-            href="#"
-            className="text-muted-foreground transition-colors hover:text-foreground"
-          >
+          <Link href="#" className="text-muted-foreground transition-colors hover:text-foreground">
             Analytics
           </Link>
         </nav>
         <Sheet>
           <SheetTrigger asChild>
-            <Button
-              variant="outline"
-              size="icon"
-              className="shrink-0 md:hidden"
-            >
+            <Button variant="outline" size="icon" className="shrink-0 md:hidden">
               <Menu className="h-5 w-5" />
               <span className="sr-only">Toggle navigation menu</span>
             </Button>
           </SheetTrigger>
           <SheetContent side="left">
             <nav className="grid gap-6 text-lg font-medium">
-              <Link
-                href="#"
-                className="flex items-center gap-2 text-lg font-semibold"
-              >
+              <Link href="#" className="flex items-center gap-2 text-lg font-semibold">
                 <Package2 className="h-6 w-6" />
                 <span className="sr-only">Acme Inc</span>
               </Link>
               <Link href="#" className="hover:text-foreground">
                 Dashboard
               </Link>
-              <Link
-                href="#"
-                className="text-muted-foreground hover:text-foreground"
-              >
+              <Link href="#" className="text-muted-foreground hover:text-foreground">
                 Orders
               </Link>
-              <Link
-                href="#"
-                className="text-muted-foreground hover:text-foreground"
-              >
+              <Link href="#" className="text-muted-foreground hover:text-foreground">
                 Products
               </Link>
-              <Link
-                href="#"
-                className="text-muted-foreground hover:text-foreground"
-              >
+              <Link href="#" className="text-muted-foreground hover:text-foreground">
                 Customers
               </Link>
-              <Link
-                href="#"
-                className="text-muted-foreground hover:text-foreground"
-              >
+              <Link href="#" className="text-muted-foreground hover:text-foreground">
                 Analytics
               </Link>
             </nav>
@@ -181,44 +158,33 @@ export function Dashboard() {
         <div className="grid gap-4 md:grid-cols-2 md:gap-8 lg:grid-cols-4">
           <Card x-chunk="dashboard-01-chunk-0">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">
-                Total Revenue
-              </CardTitle>
+              <CardTitle className="text-sm font-medium">Total Revenue</CardTitle>
               <DollarSign className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
               <div className="text-2xl font-bold">$45,231.89</div>
-              <p className="text-xs text-muted-foreground">
-                +20.1% from last month
-              </p>
+              <p className="text-xs text-muted-foreground">+20.1% from last month</p>
             </CardContent>
           </Card>
           <Card x-chunk="dashboard-01-chunk-1">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">
-                Sales
-              </CardTitle>
+              <CardTitle className="text-sm font-medium">Sales</CardTitle>
               <CreditCard className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
               <div className="text-2xl font-bold">+2350</div>
-              <p className="text-xs text-muted-foreground">
-                +180.1% from last month
-              </p>
+              <p className="text-xs text-muted-foreground">+180.1% from last month</p>
             </CardContent>
           </Card>
           <Card x-chunk="dashboard-01-chunk-2">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
               <CardTitle className="text-sm font-medium">Monthly Income</CardTitle>
-              
               <Activity className="h-4 w-4 text-muted-foreground" />
             </CardHeader>
             <CardContent>
-            <div className="text-2xl font-bold">+2350</div>
-              <p className="text-xs text-muted-foreground">
-                +180.1% from last month
-              </p>
-            <IncomeGraph comp_name={"Hemp Co."} />
+              <div className="text-2xl font-bold">+2350</div>
+              <p className="text-xs text-muted-foreground">+180.1% from last month</p>
+             {company_name && <IncomeGraph comp_name={company_name} />}
             </CardContent>
           </Card>
           <Card x-chunk="dashboard-01-chunk-3">
@@ -228,20 +194,16 @@ export function Dashboard() {
             </CardHeader>
             <CardContent>
               <div className="text-2xl font-bold">+5 different types</div>
-              <Hemp_Distribution_Graph comp_name={"Hemp Co."}/>
+              {company_name && <Hemp_Distribution_Graph comp_name={company_name} />}
             </CardContent>
           </Card>
         </div>
         <div className="grid gap-4 md:gap-8 lg:grid-cols-2 xl:grid-cols-3">
-          <Card
-            className="xl:col-span-2" x-chunk="dashboard-01-chunk-4"
-          >
+          <Card className="xl:col-span-2" x-chunk="dashboard-01-chunk-4">
             <CardHeader className="flex flex-row items-center">
               <div className="grid gap-2">
                 <CardTitle>Transactions</CardTitle>
-                <CardDescription>
-                  Recent transactions from your store.
-                </CardDescription>
+                <CardDescription>Recent transactions from your store.</CardDescription>
               </div>
               <Button asChild size="sm" className="ml-auto gap-1">
                 <Link href="#">
@@ -255,15 +217,9 @@ export function Dashboard() {
                 <TableHeader>
                   <TableRow>
                     <TableHead>Customer</TableHead>
-                    <TableHead className="hidden xl:table-column">
-                      Type
-                    </TableHead>
-                    <TableHead className="hidden xl:table-column">
-                      Status
-                    </TableHead>
-                    <TableHead className="hidden xl:table-column">
-                      Date
-                    </TableHead>
+                    <TableHead className="hidden xl:table-column">Type</TableHead>
+                    <TableHead className="hidden xl:table-column">Status</TableHead>
+                    <TableHead className="hidden xl:table-column">Date</TableHead>
                     <TableHead className="text-right">Amount</TableHead>
                   </TableRow>
                 </TableHeader>
@@ -275,9 +231,7 @@ export function Dashboard() {
                         liam@example.com
                       </div>
                     </TableCell>
-                    <TableCell className="hidden xl:table-column">
-                      Sale
-                    </TableCell>
+                    <TableCell className="hidden xl:table-column">Sale</TableCell>
                     <TableCell className="hidden xl:table-column">
                       <Badge className="text-xs" variant="outline">
                         Approved
@@ -295,9 +249,7 @@ export function Dashboard() {
                         olivia@example.com
                       </div>
                     </TableCell>
-                    <TableCell className="hidden xl:table-column">
-                      Refund
-                    </TableCell>
+                    <TableCell className="hidden xl:table-column">Refund</TableCell>
                     <TableCell className="hidden xl:table-column">
                       <Badge className="text-xs" variant="outline">
                         Declined
@@ -315,9 +267,7 @@ export function Dashboard() {
                         noah@example.com
                       </div>
                     </TableCell>
-                    <TableCell className="hidden xl:table-column">
-                      Subscription
-                    </TableCell>
+                    <TableCell className="hidden xl:table-column">Subscription</TableCell>
                     <TableCell className="hidden xl:table-column">
                       <Badge className="text-xs" variant="outline">
                         Approved
@@ -335,9 +285,7 @@ export function Dashboard() {
                         emma@example.com
                       </div>
                     </TableCell>
-                    <TableCell className="hidden xl:table-column">
-                      Sale
-                    </TableCell>
+                    <TableCell className="hidden xl:table-column">Sale</TableCell>
                     <TableCell className="hidden xl:table-column">
                       <Badge className="text-xs" variant="outline">
                         Approved
@@ -355,9 +303,7 @@ export function Dashboard() {
                         liam@example.com
                       </div>
                     </TableCell>
-                    <TableCell className="hidden xl:table-column">
-                      Sale
-                    </TableCell>
+                    <TableCell className="hidden xl:table-column">Sale</TableCell>
                     <TableCell className="hidden xl:table-column">
                       <Badge className="text-xs" variant="outline">
                         Approved
@@ -383,12 +329,8 @@ export function Dashboard() {
                   <AvatarFallback>OM</AvatarFallback>
                 </Avatar>
                 <div className="grid gap-1">
-                  <p className="text-sm font-medium leading-none">
-                    Olivia Martin
-                  </p>
-                  <p className="text-sm text-muted-foreground">
-                    olivia.martin@email.com
-                  </p>
+                  <p className="text-sm font-medium leading-none">Olivia Martin</p>
+                  <p className="text-sm text-muted-foreground">olivia.martin@email.com</p>
                 </div>
                 <div className="ml-auto font-medium">+$1,999.00</div>
               </div>
@@ -398,12 +340,8 @@ export function Dashboard() {
                   <AvatarFallback>JL</AvatarFallback>
                 </Avatar>
                 <div className="grid gap-1">
-                  <p className="text-sm font-medium leading-none">
-                    Jackson Lee
-                  </p>
-                  <p className="text-sm text-muted-foreground">
-                    jackson.lee@email.com
-                  </p>
+                  <p className="text-sm font-medium leading-none">Jackson Lee</p>
+                  <p className="text-sm text-muted-foreground">jackson.lee@email.com</p>
                 </div>
                 <div className="ml-auto font-medium">+$39.00</div>
               </div>
@@ -413,12 +351,8 @@ export function Dashboard() {
                   <AvatarFallback>IN</AvatarFallback>
                 </Avatar>
                 <div className="grid gap-1">
-                  <p className="text-sm font-medium leading-none">
-                    Isabella Nguyen
-                  </p>
-                  <p className="text-sm text-muted-foreground">
-                    isabella.nguyen@email.com
-                  </p>
+                  <p className="text-sm font-medium leading-none">Isabella Nguyen</p>
+                  <p className="text-sm text-muted-foreground">isabella.nguyen@email.com</p>
                 </div>
                 <div className="ml-auto font-medium">+$299.00</div>
               </div>
@@ -428,12 +362,8 @@ export function Dashboard() {
                   <AvatarFallback>WK</AvatarFallback>
                 </Avatar>
                 <div className="grid gap-1">
-                  <p className="text-sm font-medium leading-none">
-                    William Kim
-                  </p>
-                  <p className="text-sm text-muted-foreground">
-                    will@email.com
-                  </p>
+                  <p className="text-sm font-medium leading-none">William Kim</p>
+                  <p className="text-sm text-muted-foreground">will@email.com</p>
                 </div>
                 <div className="ml-auto font-medium">+$99.00</div>
               </div>
@@ -443,12 +373,8 @@ export function Dashboard() {
                   <AvatarFallback>SD</AvatarFallback>
                 </Avatar>
                 <div className="grid gap-1">
-                  <p className="text-sm font-medium leading-none">
-                    Sofia Davis
-                  </p>
-                  <p className="text-sm text-muted-foreground">
-                    sofia.davis@email.com
-                  </p>
+                  <p className="text-sm font-medium leading-none">Sofia Davis</p>
+                  <p className="text-sm text-muted-foreground">sofia.davis@email.com</p>
                 </div>
                 <div className="ml-auto font-medium">+$39.00</div>
               </div>
@@ -457,5 +383,5 @@ export function Dashboard() {
         </div>
       </main>
     </div>
-  )
+  );
 }
