@@ -218,7 +218,7 @@ export function Dashboard() {
               <p className="text-xs text-muted-foreground">
                 +180.1% from last month
               </p>
-            <IncomeGraph comp_name={"Hemp. Co"} />
+            <IncomeGraph comp_name={"Hemp Co."} />
             </CardContent>
           </Card>
           <Card x-chunk="dashboard-01-chunk-3">
@@ -228,7 +228,7 @@ export function Dashboard() {
             </CardHeader>
             <CardContent>
               <div className="text-2xl font-bold">+5 different types</div>
-              <Hemp_Distribution_Graph/>
+              <Hemp_Distribution_Graph comp_name={"Hemp Co."}/>
             </CardContent>
           </Card>
         </div>

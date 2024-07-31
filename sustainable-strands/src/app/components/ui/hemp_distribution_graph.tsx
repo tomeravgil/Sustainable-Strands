@@ -3,7 +3,8 @@ import React, { useEffect, useState } from 'react';
 import {BarGraphData} from '../../Functions/Graph_Functs/Graph_Functions';
 import BarGraph from "../../Analytics/black_bar_graph";
 
-export default function Hemp_Distribution_Graph() {
+type string_json = {comp_name:string};
+export default function Hemp_Distribution_Graph({ comp_name } :string_json ) {
 
   
     interface ChartData {
@@ -15,7 +16,7 @@ export default function Hemp_Distribution_Graph() {
 
     useEffect(() => {
         const fetchData = async () => {
-            const graphData = await BarGraphData();
+            const graphData = await BarGraphData(comp_name);
             setChartData({
                 labels: Object.keys(graphData),
                 values: Object.values(graphData)
