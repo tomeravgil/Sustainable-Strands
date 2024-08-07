@@ -1,0 +1,4070 @@
+[
+    {
+        "County": "Albany",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Albany"
+            },
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Albany"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Albany"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Albany"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Albany"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Albany"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Albany"
+            }
+        ]
+    },
+    {
+        "County": "Allegany",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Allegany"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Allegany"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Allegany"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Allegany"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Allegany"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Allegany"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Allegany"
+            }
+        ]
+    },
+    {
+        "County": "Bronx",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S025",
+                "Agent Name": "Eric Howard",
+                "Phone Number": "929-285-1882",
+                "Email": "edevon.howard@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S031",
+                "Agent Name": "Jazzie J McClain",
+                "Phone Number": "",
+                "Email": "mcclainjz79@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Bronx"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Bronx"
+            }
+        ]
+    },
+    {
+        "County": "Broome",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Broome"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Broome"
+            }
+        ]
+    },
+    {
+        "County": "Cattaraugus",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Cattaraugus"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Cattaraugus"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Cattaraugus"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Cattaraugus"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Cattaraugus"
+            },
+            {
+                "Authorization": "S008",
+                "Agent Name": "Melissa Moore",
+                "Phone Number": "",
+                "Email": "707mmoore@gmail.com",
+                "City": "East",
+                "County": "Cattaraugus"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Cattaraugus"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Cattaraugus"
+            }
+        ]
+    },
+    {
+        "County": "Cayuga",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Cayuga"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Cayuga"
+            }
+        ]
+    },
+    {
+        "County": "Chautauqua",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Chautauqua"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Chautauqua"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Chautauqua"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Chautauqua"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Chautauqua"
+            },
+            {
+                "Authorization": "S008",
+                "Agent Name": "Melissa Moore",
+                "Phone Number": "",
+                "Email": "707mmoore@gmail.com",
+                "City": "East",
+                "County": "Chautauqua"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Chautauqua"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Chautauqua"
+            }
+        ]
+    },
+    {
+        "County": "Chemung",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Chemung"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Chemung"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Chemung"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Chemung"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Chemung"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Chemung"
+            }
+        ]
+    },
+    {
+        "County": "Chenango",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Chenango"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Chenango"
+            }
+        ]
+    },
+    {
+        "County": "Clinton",
+        "Samplers": [
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Clinton"
+            },
+            {
+                "Authorization": "S063",
+                "Agent Name": "Joyce Brown",
+                "Phone Number": "",
+                "Email": "joyce@joyproductions.us",
+                "City": "Fort",
+                "County": "Clinton"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Clinton"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Clinton"
+            }
+        ]
+    },
+    {
+        "County": "Columbia",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Columbia"
+            },
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Columbia"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Columbia"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Columbia"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Columbia"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Columbia"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Columbia"
+            }
+        ]
+    },
+    {
+        "County": "Cortland",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Cortland"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Cortland"
+            }
+        ]
+    },
+    {
+        "County": "Delaware",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Delaware"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Delaware"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Delaware"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Delaware"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Delaware"
+            }
+        ]
+    },
+    {
+        "County": "Dutchess",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S033",
+                "Agent Name": "Rebecca Irizarry",
+                "Phone Number": "",
+                "Email": "beckers0981@yahoo.com",
+                "City": "Warwick,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Dutchess"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Dutchess"
+            }
+        ]
+    },
+    {
+        "County": "Erie",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S007",
+                "Agent Name": "James K Morrell",
+                "Phone Number": "716-983-0510",
+                "Email": "",
+                "City": "Buffalo,",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S047",
+                "Agent Name": "Kelly A March",
+                "Phone Number": "585-770-0909",
+                "Email": "genesee2c@gmail.com",
+                "City": "Batavia,",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S008",
+                "Agent Name": "Melissa Moore",
+                "Phone Number": "",
+                "Email": "707mmoore@gmail.com",
+                "City": "East",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Erie"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Erie"
+            }
+        ]
+    },
+    {
+        "County": "Essex",
+        "Samplers": [
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Essex"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Essex"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Essex"
+            }
+        ]
+    },
+    {
+        "County": "Franklin",
+        "Samplers": [
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Franklin"
+            },
+            {
+                "Authorization": "S063",
+                "Agent Name": "Joyce Brown",
+                "Phone Number": "",
+                "Email": "joyce@joyproductions.us",
+                "City": "Fort",
+                "County": "Franklin"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Franklin"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Franklin"
+            }
+        ]
+    },
+    {
+        "County": "Fulton",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Fulton"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Fulton"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Fulton"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Fulton"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Fulton"
+            }
+        ]
+    },
+    {
+        "County": "Genesee",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S007",
+                "Agent Name": "James K Morrell",
+                "Phone Number": "716-983-0510",
+                "Email": "",
+                "City": "Buffalo,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S047",
+                "Agent Name": "Kelly A March",
+                "Phone Number": "585-770-0909",
+                "Email": "genesee2c@gmail.com",
+                "City": "Batavia,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S008",
+                "Agent Name": "Melissa Moore",
+                "Phone Number": "",
+                "Email": "707mmoore@gmail.com",
+                "City": "East",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Genesee"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Genesee"
+            }
+        ]
+    },
+    {
+        "County": "Greene",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Greene"
+            },
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Greene"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Greene"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Greene"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Greene"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Greene"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Greene"
+            }
+        ]
+    },
+    {
+        "County": "Hamilton",
+        "Samplers": [
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Hamilton"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Hamilton"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Hamilton"
+            }
+        ]
+    },
+    {
+        "County": "Herkimer",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Herkimer"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Herkimer"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Herkimer"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Herkimer"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Herkimer"
+            }
+        ]
+    },
+    {
+        "County": "Jefferson",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Jefferson"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Jefferson"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Jefferson"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Jefferson"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Jefferson"
+            }
+        ]
+    },
+    {
+        "County": "Kings",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Kings"
+            },
+            {
+                "Authorization": "S025",
+                "Agent Name": "Eric Howard",
+                "Phone Number": "929-285-1882",
+                "Email": "edevon.howard@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Kings"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Kings"
+            },
+            {
+                "Authorization": "S031",
+                "Agent Name": "Jazzie J McClain",
+                "Phone Number": "",
+                "Email": "mcclainjz79@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Kings"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Kings"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Kings"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Kings"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Kings"
+            }
+        ]
+    },
+    {
+        "County": "Lewis",
+        "Samplers": [
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Lewis"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Lewis"
+            },
+            {
+                "Authorization": "S063",
+                "Agent Name": "Joyce Brown",
+                "Phone Number": "",
+                "Email": "joyce@joyproductions.us",
+                "City": "Fort",
+                "County": "Lewis"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Lewis"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Lewis"
+            }
+        ]
+    },
+    {
+        "County": "Livingston",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S047",
+                "Agent Name": "Kelly A March",
+                "Phone Number": "585-770-0909",
+                "Email": "genesee2c@gmail.com",
+                "City": "Batavia,",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S070",
+                "Agent Name": "Lauren Bournival",
+                "Phone Number": "585-410-0607",
+                "Email": "laurenrae33@yahoo.com",
+                "City": "Canandaigua,",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Livingston"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Livingston"
+            }
+        ]
+    },
+    {
+        "County": "Madison",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Madison"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Madison"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Madison"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Madison"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Madison"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Madison"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Madison"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Madison"
+            }
+        ]
+    },
+    {
+        "County": "Monroe",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S047",
+                "Agent Name": "Kelly A March",
+                "Phone Number": "585-770-0909",
+                "Email": "genesee2c@gmail.com",
+                "City": "Batavia,",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S070",
+                "Agent Name": "Lauren Bournival",
+                "Phone Number": "585-410-0607",
+                "Email": "laurenrae33@yahoo.com",
+                "City": "Canandaigua,",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Monroe"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Monroe"
+            }
+        ]
+    },
+    {
+        "County": "Montgomery",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Montgomery"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Montgomery"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Montgomery"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Montgomery"
+            }
+        ]
+    },
+    {
+        "County": "Nassau",
+        "Samplers": [
+            {
+                "Authorization": "S003",
+                "Agent Name": "Andrew Clifford",
+                "Phone Number": "631-418-6892",
+                "Email": "andybuildz@gmail.com",
+                "City": "Huntington,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S025",
+                "Agent Name": "Eric Howard",
+                "Phone Number": "929-285-1882",
+                "Email": "edevon.howard@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S015",
+                "Agent Name": "Jeffrey L Seeman",
+                "Phone Number": "631-872-9116",
+                "Email": "jeffrey.seeman@icloud.com",
+                "City": "Hampton",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S025",
+                "Agent Name": "Eric Howard",
+                "Phone Number": "929-285-1882",
+                "Email": "edevon.howard@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S031",
+                "Agent Name": "Jazzie J McClain",
+                "Phone Number": "",
+                "Email": "mcclainjz79@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Nassau"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Nassau"
+            }
+        ]
+    },
+    {
+        "County": "Niagara",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S007",
+                "Agent Name": "James K Morrell",
+                "Phone Number": "716-983-0510",
+                "Email": "",
+                "City": "Buffalo,",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S008",
+                "Agent Name": "Melissa Moore",
+                "Phone Number": "",
+                "Email": "707mmoore@gmail.com",
+                "City": "East",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Niagara"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Niagara"
+            }
+        ]
+    },
+    {
+        "County": "Oneida",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Oneida"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Oneida"
+            }
+        ]
+    },
+    {
+        "County": "Onondaga",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Onondaga"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Onondaga"
+            }
+        ]
+    },
+    {
+        "County": "Ontario",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S070",
+                "Agent Name": "Lauren Bournival",
+                "Phone Number": "585-410-0607",
+                "Email": "laurenrae33@yahoo.com",
+                "City": "Canandaigua,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Ontario"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Ontario"
+            }
+        ]
+    },
+    {
+        "County": "Orange",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Orange"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Orange"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Orange"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Orange"
+            },
+            {
+                "Authorization": "S033",
+                "Agent Name": "Rebecca Irizarry",
+                "Phone Number": "",
+                "Email": "beckers0981@yahoo.com",
+                "City": "Warwick,",
+                "County": "Orange"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Orange"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Orange"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Orange"
+            }
+        ]
+    },
+    {
+        "County": "Orleans",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S047",
+                "Agent Name": "Kelly A March",
+                "Phone Number": "585-770-0909",
+                "Email": "genesee2c@gmail.com",
+                "City": "Batavia,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Orleans"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Orleans"
+            }
+        ]
+    },
+    {
+        "County": "Oswego",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Oswego"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Oswego"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Oswego"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Oswego"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Oswego"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Oswego"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Oswego"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Oswego"
+            }
+        ]
+    },
+    {
+        "County": "Otsego",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Otsego"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Otsego"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Otsego"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Otsego"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Otsego"
+            }
+        ]
+    },
+    {
+        "County": "Putnam",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Putnam"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Putnam"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Putnam"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Putnam"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Putnam"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Putnam"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Putnam"
+            }
+        ]
+    },
+    {
+        "County": "Queens",
+        "Samplers": [
+            {
+                "Authorization": "S003",
+                "Agent Name": "Andrew Clifford",
+                "Phone Number": "631-418-6892",
+                "Email": "andybuildz@gmail.com",
+                "City": "Huntington,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S025",
+                "Agent Name": "Eric Howard",
+                "Phone Number": "929-285-1882",
+                "Email": "edevon.howard@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S031",
+                "Agent Name": "Jazzie J McClain",
+                "Phone Number": "",
+                "Email": "mcclainjz79@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Queens"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Queens"
+            }
+        ]
+    },
+    {
+        "County": "Rensselaer",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Rensselaer"
+            },
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Rensselaer"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Rensselaer"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Rensselaer"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Rensselaer"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Rensselaer"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Rensselaer"
+            }
+        ]
+    },
+    {
+        "County": "Richmond",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Richmond"
+            },
+            {
+                "Authorization": "S025",
+                "Agent Name": "Eric Howard",
+                "Phone Number": "929-285-1882",
+                "Email": "edevon.howard@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Richmond"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Richmond"
+            },
+            {
+                "Authorization": "S031",
+                "Agent Name": "Jazzie J McClain",
+                "Phone Number": "",
+                "Email": "mcclainjz79@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Richmond"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Richmond"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Richmond"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Richmond"
+            }
+        ]
+    },
+    {
+        "County": "Rockland",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Rockland"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Rockland"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Rockland"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Rockland"
+            },
+            {
+                "Authorization": "S033",
+                "Agent Name": "Rebecca Irizarry",
+                "Phone Number": "",
+                "Email": "beckers0981@yahoo.com",
+                "City": "Warwick,",
+                "County": "Rockland"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Rockland"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Rockland"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Rockland"
+            }
+        ]
+    },
+    {
+        "County": "Saratoga",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Saratoga"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Saratoga"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Saratoga"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Saratoga"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Saratoga"
+            }
+        ]
+    },
+    {
+        "County": "Schenectady",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Schenectady"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Schenectady"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Schenectady"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Schenectady"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Schenectady"
+            }
+        ]
+    },
+    {
+        "County": "Schoharie",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Schoharie"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Schoharie"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Schoharie"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Schoharie"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Schoharie"
+            }
+        ]
+    },
+    {
+        "County": "Schuyler",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Schuyler"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Schuyler"
+            }
+        ]
+    },
+    {
+        "County": "Seneca",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "St.",
+                "Agent Name": "Lawrence",
+                "Phone Number": "",
+                "Email": "",
+                "City": "",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S063",
+                "Agent Name": "Joyce Brown",
+                "Phone Number": "",
+                "Email": "joyce@joyproductions.us",
+                "City": "Fort",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Seneca"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Seneca"
+            }
+        ]
+    },
+    {
+        "County": "Steuben",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Steuben"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Steuben"
+            }
+        ]
+    },
+    {
+        "County": "Suffolk",
+        "Samplers": [
+            {
+                "Authorization": "S003",
+                "Agent Name": "Andrew Clifford",
+                "Phone Number": "631-418-6892",
+                "Email": "andybuildz@gmail.com",
+                "City": "Huntington,",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S025",
+                "Agent Name": "Eric Howard",
+                "Phone Number": "929-285-1882",
+                "Email": "edevon.howard@gmail.com",
+                "City": "Brooklyn,",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S015",
+                "Agent Name": "Jeffrey L Seeman",
+                "Phone Number": "631-872-9116",
+                "Email": "jeffrey.seeman@icloud.com",
+                "City": "Hampton",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Suffolk"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Suffolk"
+            }
+        ]
+    },
+    {
+        "County": "Sullivan",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Sullivan"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Sullivan"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Sullivan"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Sullivan"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Sullivan"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Sullivan"
+            }
+        ]
+    },
+    {
+        "County": "Tioga",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Tioga"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Tioga"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Tioga"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Tioga"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Tioga"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Tioga"
+            }
+        ]
+    },
+    {
+        "County": "Tompkins",
+        "Samplers": [
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S027",
+                "Agent Name": "Kathy Lynn Jett",
+                "Phone Number": "607-227-6872",
+                "Email": "hempsamplerjett@gmail.com",
+                "City": "Ithaca,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Tompkins"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Tompkins"
+            }
+        ]
+    },
+    {
+        "County": "Ulster",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Ulster"
+            },
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Ulster"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Ulster"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Ulster"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Ulster"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Ulster"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Ulster"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Ulster"
+            }
+        ]
+    },
+    {
+        "County": "Warren",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Warren"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Warren"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Warren"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Warren"
+            }
+        ]
+    },
+    {
+        "County": "Washington",
+        "Samplers": [
+            {
+                "Authorization": "S072",
+                "Agent Name": "GreenHaul Solutions",
+                "Phone Number": "518-227-0107",
+                "Email": "info@GreenHaulSolutions.com",
+                "City": "Niskayuna,",
+                "County": "Washington"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Washington"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Washington"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Washington"
+            }
+        ]
+    },
+    {
+        "County": "Wayne",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S017",
+                "Agent Name": "Jeffrey Allen White",
+                "Phone Number": "315-313-0300",
+                "Email": "jwhite160@twcny.rr.com",
+                "City": "Syracuse,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S070",
+                "Agent Name": "Lauren Bournival",
+                "Phone Number": "585-410-0607",
+                "Email": "laurenrae33@yahoo.com",
+                "City": "Canandaigua,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Wayne"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Wayne"
+            }
+        ]
+    },
+    {
+        "County": "Westchester",
+        "Samplers": [
+            {
+                "Authorization": "S067",
+                "Agent Name": "Dondi McKellar",
+                "Phone Number": "646-667-4770",
+                "Email": "dondimckellar@gmail.com",
+                "City": "Bronx,",
+                "County": "Westchester"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Westchester"
+            },
+            {
+                "Authorization": "S071",
+                "Agent Name": "Linda Catlett",
+                "Phone Number": "347-439-5858",
+                "Email": "sisterwithapen@gmail.com",
+                "City": "Bronx,",
+                "County": "Westchester"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Westchester"
+            },
+            {
+                "Authorization": "S041",
+                "Agent Name": "Ross Singer",
+                "Phone Number": "212-729-7619",
+                "Email": "silverapplesny@gmail.com",
+                "City": "Walden,",
+                "County": "Westchester"
+            },
+            {
+                "Authorization": "S064",
+                "Agent Name": "Selwyn Roberts",
+                "Phone Number": "917-318-4007",
+                "Email": "selwyn@doxburygroup.com",
+                "City": "Suffern,",
+                "County": "Westchester"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Westchester"
+            }
+        ]
+    },
+    {
+        "County": "Wyoming",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S007",
+                "Agent Name": "James K Morrell",
+                "Phone Number": "716-983-0510",
+                "Email": "",
+                "City": "Buffalo,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S019",
+                "Agent Name": "James Skorik",
+                "Phone Number": "",
+                "Email": "jskorik48@gmail.com",
+                "City": "Sanborn,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S047",
+                "Agent Name": "Kelly A March",
+                "Phone Number": "585-770-0909",
+                "Email": "genesee2c@gmail.com",
+                "City": "Batavia,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S008",
+                "Agent Name": "Melissa Moore",
+                "Phone Number": "",
+                "Email": "707mmoore@gmail.com",
+                "City": "East",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Wyoming"
+            },
+            {
+                "Authorization": "S042",
+                "Agent Name": "William H Carson II",
+                "Phone Number": "585-402-3593",
+                "Email": "Hemp@acscrops.com",
+                "City": "Rochester,",
+                "County": "Wyoming"
+            }
+        ]
+    },
+    {
+        "County": "Yates",
+        "Samplers": [
+            {
+                "Authorization": "S062",
+                "Agent Name": "Alishia Cox",
+                "Phone Number": "816-786-6857",
+                "Email": "",
+                "City": "Rochestser,",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S016",
+                "Agent Name": "Anthony J Barraco III",
+                "Phone Number": "",
+                "Email": "ajb499@cornell.edu",
+                "City": "Liverpool,",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S012",
+                "Agent Name": "Brian McDonough",
+                "Phone Number": "716-713-8581",
+                "Email": "bpm.hemptesting@gmail.com",
+                "City": "North",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S029",
+                "Agent Name": "Hemp Friendly Sampling",
+                "Phone Number": "518-527-6751",
+                "Email": "jackieallen22@gmail.com",
+                "City": "Amsterdam,",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S069",
+                "Agent Name": "John Schouten",
+                "Phone Number": "",
+                "Email": "john.schouten@acscrops.com",
+                "City": "Rochester,",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S011",
+                "Agent Name": "Kathlene Marie Julin",
+                "Phone Number": "",
+                "Email": "kathlenekolb@gmail.com",
+                "City": "Frewsburg,",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S059",
+                "Agent Name": "Mitchel Arthur Leventhal",
+                "Phone Number": "",
+                "Email": "mitch@wolfandleaf.com",
+                "City": "Wurtsboro,",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S068",
+                "Agent Name": "Ryan Naughton",
+                "Phone Number": "315-723-3051",
+                "Email": "ryan.naughton@acscrops.com",
+                "City": "Edmeston,",
+                "County": "Yates"
+            },
+            {
+                "Authorization": "S001",
+                "Agent Name": "William G Carter",
+                "Phone Number": "518-728-9011",
+                "Email": "williamcarter545@gmail.com",
+                "City": "Scotia,",
+                "County": "Yates"
+            }
+        ]
+    }
+]

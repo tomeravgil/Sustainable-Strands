@@ -2576,7 +2576,7 @@
         ]
     },
     {
-        "County": "Business Name",
+        "County": "l",
         "Businesses": [
             {
                 "Authorization": "36_0242",
@@ -2584,8 +2584,8 @@
                 "Business Focus": "Research",
                 "Contact": "Robert Frey",
                 "Email": "",
-                "City": "Authorization",
-                "County": "Business Name"
+                "City": "Seed Retai",
+                "County": "l"
             }
         ]
     }

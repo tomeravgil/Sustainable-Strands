@@ -1,0 +1,698 @@
+Albany
+Certification Agent Name Phone Email City
+7
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Allegany
+Certification Agent Name Phone Email City
+7
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Bronx
+Certification Agent Name Phone Email City
+9
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S025 Eric Howard 929-285-1882 edevon.howard@gmail.com Brooklyn, NY
+Monday, August 5, 2024 Page 1 of 22
+
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S031 Jazzie J McClain -N/A- mcclainjz79@gmail.com Brooklyn, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Broome
+Certification Agent Name Phone Email City
+9
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Cattaraugus
+Certification Agent Name Phone Email City
+8
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S008 Melissa Moore -N/A- 707mmoore@gmail.com East Amherst, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Monday, August 5, 2024 Page 2 of 22
+
+Cayuga
+Certification Agent Name Phone Email City
+10
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Chautauqua
+Certification Agent Name Phone Email City
+8
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S008 Melissa Moore -N/A- 707mmoore@gmail.com East Amherst, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Chemung
+Certification Agent Name Phone Email City
+6
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+Monday, August 5, 2024 Page 3 of 22
+
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Chenango
+Certification Agent Name Phone Email City
+9
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Clinton
+Certification Agent Name Phone Email City
+4
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S063 Joyce Brown -N/A- joyce@joyproductions.us Fort Covington, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY1
+Columbia
+Certification Agent Name Phone Email City
+7
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Monday, August 5, 2024 Page 4 of 22
+
+Cortland
+Certification Agent Name Phone Email City
+9
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Delaware
+Certification Agent Name Phone Email City
+5
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Dutchess
+Certification Agent Name Phone Email City
+9
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S033 Rebecca Irizarry -N/A- beckers0981@yahoo.com Warwick, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+Monday, August 5, 2024 Page 5 of 22
+
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Erie
+Certification Agent Name Phone Email City
+10
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S007 James K Morrell 716-983-0510 -N/A- Buffalo, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S047 Kelly A March 585-770-0909 genesee2c@gmail.com Batavia, NY
+S008 Melissa Moore -N/A- 707mmoore@gmail.com East Amherst, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Essex
+Certification Agent Name Phone Email City
+3
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Franklin
+Certification Agent Name Phone Email City
+4
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S063 Joyce Brown -N/A- joyce@joyproductions.us Fort Covington, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Fulton
+Certification Agent Name Phone Email City
+5
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+Monday, August 5, 2024 Page 6 of 22
+
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Genesee
+Certification Agent Name Phone Email City
+13
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S007 James K Morrell 716-983-0510 -N/A- Buffalo, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S047 Kelly A March 585-770-0909 genesee2c@gmail.com Batavia, NY
+S008 Melissa Moore -N/A- 707mmoore@gmail.com East Amherst, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Greene
+Certification Agent Name Phone Email City
+7
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Monday, August 5, 2024 Page 7 of 22
+
+Hamilton
+Certification Agent Name Phone Email City
+3
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Herkimer
+Certification Agent Name Phone Email City
+5
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Jefferson
+Certification Agent Name Phone Email City
+5
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Kings
+Certification Agent Name Phone Email City
+8
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S025 Eric Howard 929-285-1882 edevon.howard@gmail.com Brooklyn, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S031 Jazzie J McClain -N/A- mcclainjz79@gmail.com Brooklyn, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+Monday, August 5, 2024 Page 8 of 22
+
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Lewis
+Certification Agent Name Phone Email City
+5
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S063 Joyce Brown -N/A- joyce@joyproductions.us Fort Covington, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Livingston
+Certification Agent Name Phone Email City
+9
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S047 Kelly A March 585-770-0909 genesee2c@gmail.com Batavia, NY
+S070 Lauren Bournival 585-410-0607 laurenrae33@yahoo.com Canandaigua, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Madison
+Certification Agent Name Phone Email City
+8
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Monday, August 5, 2024 Page 9 of 22
+
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Monroe
+Certification Agent Name Phone Email City
+9
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S047 Kelly A March 585-770-0909 genesee2c@gmail.com Batavia, NY
+S070 Lauren Bournival 585-410-0607 laurenrae33@yahoo.com Canandaigua, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Montgomery
+Certification Agent Name Phone Email City
+4
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Nassau
+Certification Agent Name Phone Email City
+9
+S003 Andrew Clifford 631-418-6892 andybuildz@gmail.com Huntington, NY
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S025 Eric Howard 929-285-1882 edevon.howard@gmail.com Brooklyn, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S015 Jeffrey L Seeman 631-872-9116 jeffrey.seeman@icloud.com Hampton Bays, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+Monday, August 5, 2024 Page 10 of 22
+
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+New York
+Certification Agent Name Phone Email City
+8
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S025 Eric Howard 929-285-1882 edevon.howard@gmail.com Brooklyn, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S031 Jazzie J McClain -N/A- mcclainjz79@gmail.com Brooklyn, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Niagara
+Certification Agent Name Phone Email City
+9
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S007 James K Morrell 716-983-0510 -N/A- Buffalo, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S008 Melissa Moore -N/A- 707mmoore@gmail.com East Amherst, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Oneida
+Certification Agent Name Phone Email City
+10
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+Monday, August 5, 2024 Page 11 of 22
+
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Onondaga
+Certification Agent Name Phone Email City
+9
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Ontario
+Certification Agent Name Phone Email City
+12
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S070 Lauren Bournival 585-410-0607 laurenrae33@yahoo.com Canandaigua, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+Monday, August 5, 2024 Page 12 of 22
+
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Orange
+Certification Agent Name Phone Email City
+8
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S033 Rebecca Irizarry -N/A- beckers0981@yahoo.com Warwick, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Orleans
+Certification Agent Name Phone Email City
+11
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S047 Kelly A March 585-770-0909 genesee2c@gmail.com Batavia, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Oswego
+Certification Agent Name Phone Email City
+8
+Monday, August 5, 2024 Page 13 of 22
+
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Otsego
+Certification Agent Name Phone Email City
+5
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Putnam
+Certification Agent Name Phone Email City
+7
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Queens
+Certification Agent Name Phone Email City
+9
+S003 Andrew Clifford 631-418-6892 andybuildz@gmail.com Huntington, NY
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+Monday, August 5, 2024 Page 14 of 22
+
+S025 Eric Howard 929-285-1882 edevon.howard@gmail.com Brooklyn, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S031 Jazzie J McClain -N/A- mcclainjz79@gmail.com Brooklyn, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Rensselaer
+Certification Agent Name Phone Email City
+7
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Richmond
+Certification Agent Name Phone Email City
+7
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S025 Eric Howard 929-285-1882 edevon.howard@gmail.com Brooklyn, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S031 Jazzie J McClain -N/A- mcclainjz79@gmail.com Brooklyn, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Rockland
+Certification Agent Name Phone Email City
+8
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+Monday, August 5, 2024 Page 15 of 22
+
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S033 Rebecca Irizarry -N/A- beckers0981@yahoo.com Warwick, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Saratoga
+Certification Agent Name Phone Email City
+5
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Schenectady
+Certification Agent Name Phone Email City
+5
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Schoharie
+Certification Agent Name Phone Email City
+5
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Monday, August 5, 2024 Page 16 of 22
+
+Schuyler
+Certification Agent Name Phone Email City
+11
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Seneca
+Certification Agent Name Phone Email City
+11
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+St. Lawrence
+Certification Agent Name Phone Email City
+4
+Monday, August 5, 2024 Page 17 of 22
+
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S063 Joyce Brown -N/A- joyce@joyproductions.us Fort Covington, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Steuben
+Certification Agent Name Phone Email City
+10
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Suffolk
+Certification Agent Name Phone Email City
+9
+S003 Andrew Clifford 631-418-6892 andybuildz@gmail.com Huntington, NY
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S025 Eric Howard 929-285-1882 edevon.howard@gmail.com Brooklyn, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S015 Jeffrey L Seeman 631-872-9116 jeffrey.seeman@icloud.com Hampton Bays, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Monday, August 5, 2024 Page 18 of 22
+
+Sullivan
+Certification Agent Name Phone Email City
+6
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Tioga
+Certification Agent Name Phone Email City
+6
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Tompkins
+Certification Agent Name Phone Email City
+10
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S027 Kathy Lynn Jett 607-227-6872 hempsamplerjett@gmail.com Ithaca, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Monday, August 5, 2024 Page 19 of 22
+
+Ulster
+Certification Agent Name Phone Email City
+8
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Warren
+Certification Agent Name Phone Email City
+4
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Washington
+Certification Agent Name Phone Email City
+4
+S072 GreenHaul Solutions 518-227-0107 info@GreenHaulSolutions.com Niskayuna, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Wayne
+Certification Agent Name Phone Email City
+11
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S017 Jeffrey Allen White 315-313-0300 jwhite160@twcny.rr.com Syracuse, NY
+Monday, August 5, 2024 Page 20 of 22
+
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S070 Lauren Bournival 585-410-0607 laurenrae33@yahoo.com Canandaigua, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Westchester
+Certification Agent Name Phone Email City
+7
+S067 Dondi McKellar 646-667-4770 dondimckellar@gmail.com Bronx, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S071 Linda Catlett 347-439-5858 sisterwithapen@gmail.com Bronx, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S041 Ross Singer 212-729-7619 silverapplesny@gmail.com Walden, NY
+S064 Selwyn Roberts 917-318-4007 selwyn@doxburygroup.com Suffern, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+Wyoming
+Certification Agent Name Phone Email City
+13
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S007 James K Morrell 716-983-0510 -N/A- Buffalo, NY
+S019 James Skorik -N/A- jskorik48@gmail.com Sanborn, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S047 Kelly A March 585-770-0909 genesee2c@gmail.com Batavia, NY
+S008 Melissa Moore -N/A- 707mmoore@gmail.com East Amherst, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+Monday, August 5, 2024 Page 21 of 22
+
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
+S042 William H Carson II 585-402-3593 Hemp@acscrops.com Rochester, NY
+Yates
+Certification Agent Name Phone Email City
+9
+S062 Alishia Cox 816-786-6857 -N/A- Rochestser, NY
+S016 Anthony J Barraco III -N/A- ajb499@cornell.edu Liverpool, NY
+S012 Brian McDonough 716-713-8581 bpm.hemptesting@gmail.com North Tonawanda, NY
+S029 Hemp Friendly Sampling 518-527-6751 jackieallen22@gmail.com Amsterdam, NY
+S069 John Schouten -N/A- john.schouten@acscrops.com Rochester, NY
+S011 Kathlene Marie Julin -N/A- kathlenekolb@gmail.com Frewsburg, NY
+S059 Mitchel Arthur Leventhal -N/A- mitch@wolfandleaf.com Wurtsboro, NY
+S068 Ryan Naughton 315-723-3051 ryan.naughton@acscrops.com Edmeston, NY
+S001 William G Carter 518-728-9011 williamcarter545@gmail.com Scotia, NY
