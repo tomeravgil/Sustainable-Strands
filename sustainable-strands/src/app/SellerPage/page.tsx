@@ -117,7 +117,7 @@ export function Dashboard() {
           <div className="mt-auto p-4 ">
             <div className="flex flex-row items-center justify-around">
               <div className="space-x-4 flex flex-row items-center">
-                <Avatar name="Henry" className="bg-green-700 text-white" />
+                <Avatar name="H" className="text-lg bg-green-700 text-white" />
                 <p>Welcome Henry!</p>
               </div>
               <SettingsOutlinedIcon />
@@ -173,7 +173,7 @@ export function Dashboard() {
                 <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
                   <CardTitle className="text-2xl font-bold">Ongoing Orders</CardTitle>
                 </CardHeader>
-                <CardContent className="h-fit flex flex-col">
+                <CardContent className="h-2/3 flex flex-col">
                   <div className="px-1 mt-5 py-2 rounded-small border-default-200 dark:border-default-100 flex flex-col">
                     <div className="flex flex-row items-center justify-between pb-4">
                       <p className="text-lg font-bold">Customer Name</p>
@@ -181,42 +181,46 @@ export function Dashboard() {
                     </div>
                     <div className="flex flex-row justify-between items-center">
                       <div className="flex flex-row items-center space-x-4">
-                        <Avatar name="Henry" className="bg-green-700 text-white" />
+                        <Avatar name="H" className="text-lg bg-green-700 text-white" />
                         <p className="text-lg">Henry</p>
                       </div>
                       <p className="text-lg font-bold">100%</p>
                     </div>
                     {/* Repeat customer rows as necessary */}
                   </div>
-                  <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
-                    <p>View All</p>
-                    <ArrowForwardOutlinedIcon />
-                  </a>
                 </CardContent>
+                <CardFooter>
+                  <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
+                      <p>View All</p>
+                      <ArrowForwardOutlinedIcon />
+                  </a>
+                </CardFooter>
               </Card>
                 <Card className="bg-gray-50 h-full">
                   <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
                     <CardTitle className="text-2xl font-bold">Recent Transactions</CardTitle>
                   </CardHeader>
-                  <CardContent className="flex flex-col">
+                  <CardContent className="flex flex-col h-2/3">
                     <div className="px-1 py-2 rounded-small border-default-200 dark:border-default-100">
                       <div className="space-y-10">
                         <div className="flex flex-row items-center space-x-4">
-                          <Avatar name="Henry" className="bg-green-700 text-white" />
+                          <Avatar name="H" className="text-lg bg-green-700 text-white" />
                           <p className="text-lg">Henry</p>
                         </div>
                         {/* Repeat transaction rows as necessary */}
                       </div>
                     </div>
-                    <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
-                      <p>View All</p>
-                      <ArrowForwardOutlinedIcon />
-                    </a>
                   </CardContent>
+                  <CardFooter className="">
+                    <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
+                        <p>View All</p>
+                        <ArrowForwardOutlinedIcon />
+                    </a>
+                  </CardFooter>
               </Card>
             </div>
           </div>
-          <div className="grid grid-rows-2 gap-16 h-fit">
+          <div className="grid grid-rows-2 gap-16 h-full">
             <ListboxWrapper>
               <div className="flex justify-between items-center p-5">
                 <h2 className="font-bold text-2xl">Notifications</h2>
@@ -234,27 +238,31 @@ export function Dashboard() {
             </ListboxWrapper>
             <div className="">
               <Card className="bg-gray-50 h-full">
-                      <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                        <CardTitle className="text-2xl font-bold">Recent Chats</CardTitle>
-                      </CardHeader>
-                      <CardContent className="flex flex-col">
-                        <div className="px-1 py-2 rounded-small border-default-200 dark:border-default-100">
-                          <div className="space-y-10">
-                            <div className="flex flex-row items-center space-x-4 hover:bg-gray-300">
-                              <Avatar name="Henry" className="bg-green-700 text-white" />
-                              <div className="flex flex-col">
-                                <p className="text-lg">Henry</p>
-                                <p className="text-sm text-gray-400">most recent chat message</p>
-                              </div>
-                            </div>
-                            {/* Repeat chat rows as necessary */}
+                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+                  <CardTitle className="text-2xl font-bold">Recent Chats</CardTitle>
+                </CardHeader>
+                <CardContent className="h-2/3">
+                  <div className="px-1 py-2 rounded-small border-default-200 dark:border-default-100">
+                    <div className="space-y-10">
+                      <div className="transition delay-150 hover:bg-gray-300 rounded-lg">
+                        <a href="#" className="ml-2 mr-2 py-1 flex flex-row items-center space-x-4">
+                          <Avatar name="H" className="bg-green-700 text-lg text-white" />
+                          <div className="flex flex-col">
+                            <p className="text-lg">Henry</p>
+                            <p className="text-sm text-gray-400">most recent chat message</p>
                           </div>
-                        </div>
-                        <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
-                          <p>View All</p>
-                          <ArrowForwardOutlinedIcon />
                         </a>
-                      </CardContent>
+                      </div>
+                      {/* Repeat chat rows as necessary */}
+                    </div>
+                  </div>
+                </CardContent>
+                <CardFooter>
+                  <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
+                      <p>View All</p>
+                      <ArrowForwardOutlinedIcon />
+                  </a>
+                </CardFooter>
               </Card>
             </div>
           </div>
@@ -267,7 +275,7 @@ export function Dashboard() {
 }
 
 const ListboxWrapper = ({ children }: any) => (
-  <div className=" col-span-1 h-full bg-gray-50 border-small px-1 py-2 rounded-small border-default-200 dark:border-default-100">
+  <Card className="col-span-1 h-full bg-gray-50 border-small px-1 py-2 rounded-small border-default-200 dark:border-default-100">
     {children}
-  </div>
+  </Card>
 );
