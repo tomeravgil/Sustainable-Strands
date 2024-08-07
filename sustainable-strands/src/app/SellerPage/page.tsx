@@ -66,6 +66,7 @@ export function Dashboard() {
   }, []);
 
   const company_name = sessionVals?.data?.user?.company;
+  console.log(company_name);
   const curr_month_income = transaction_data?.cur_month_income as number;
   const prev_month_income = transaction_data?.prev_month_income as number;
   const income_change = (curr_month_income / prev_month_income) * 100;
@@ -124,82 +125,68 @@ export function Dashboard() {
           </div>
         </div>
       </div>
-      <div className="p-4 lg:p-10 grid gap-4 lg:gap-16 grid-cols-1 lg:grid-cols-3">
-        <div className="lg:col-span-2 grid gap-4 lg:gap-16 lg:grid-rows-2 h-full">
-          <div className="grid gap-4 lg:gap-16 lg:grid-cols-2 h-full">
-            <Card className="bg-gray-50">
-              <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                <CardTitle className="text-2xl font-bold">Monthly Income</CardTitle>
-                <Activity className="h-4 w-4 text-muted-foreground" />
-              </CardHeader>
-              <CardContent>
-                <div className="text-2xl font-bold">{curr_month_income}</div>
-                <p className="text-xs text-muted-foreground">{income_change.toFixed(2)}% of last month</p>
-                {company_name && <IncomeGraph comp_name={company_name} />}
-              </CardContent>
-            </Card>
-            <div className="grid gap-4 lg:gap-16 lg:grid-rows-2">
-              <Card className="bg-gray-50">
-                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-2xl">Product Clicks</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="text-2xl font-bold">100</div>
-                  <p className="text-xs text-muted-foreground">+20.1% from last month</p>
-                </CardContent>
-              </Card>
-              <Card className="bg-gray-50">
-                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-2xl font-bold">Total Revenue</CardTitle>
-                  <DollarSign className="h-4 w-4 text-muted-foreground" />
-                </CardHeader>
-                <CardContent>
-                  <div className="text-2xl font-bold">$100</div>
-                  <p className="text-xs text-muted-foreground">+20.1% from last month</p>
-                </CardContent>
-              </Card>
-            </div>
-          </div>
-          <div className="grid gap-4 lg:gap-16 lg:grid-cols-2 h-full">
-            <Card className="bg-gray-50">
-              <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                <CardTitle className="text-2xl font-bold">Ongoing Orders</CardTitle>
-              </CardHeader>
-              <CardContent className="h-full flex flex-col">
-                <div className="px-1 mt-5 py-2 rounded-small border-default-200 dark:border-default-100 flex flex-col justify-between h-full">
-                  <div className="flex flex-row items-center justify-between">
-                    <p className="text-lg font-bold">Customer Name</p>
-                    <p className="text-lg font-bold">% Done</p>
+      <div className="p-10 h-screen">
+        <div className="grid gap-16 grid-cols-1 lg:grid-cols-3 h-full">
+          <div className="lg:col-span-2 grid gap-16 lg:grid-rows-2 h-fit">
+            <div className="grid gap-16 lg:grid-cols-2 h-full">
+              <Card className="bg-gray-50 h-full flex flex-col">
+                <CardHeader className="flex flex-col justify-between space-y-0 pb-2">
+                  <div className="flex flex-row items-center justify-between space-y-0 pb-2">
+                    <CardTitle className="text-2xl font-bold">Monthly Income</CardTitle>
+                    <Activity className="h-4 w-4 text-muted-foreground" />
                   </div>
-                  <div className="flex flex-row justify-between items-center">
-                    <div className="flex flex-row items-center space-x-4">
-                      <Avatar name="Henry" className="bg-green-700 text-white" />
-                      <p className="text-lg">Henry</p>
+                  <div className="text-2xl font-bold">{curr_month_income}</div>
+                  <p className="text-xs text-muted-foreground">{income_change.toFixed(2)}% of last month</p>
+                </CardHeader>
+                <CardContent className="h-full p-0">
+                  <div className="h-full flex items-center">
+                    <div className="w-full flex justify-around">
+                      {company_name && <IncomeGraph comp_name={company_name} />}
                     </div>
-                    <p className="text-lg font-bold">100%</p>
                   </div>
-                  {/* Repeat customer rows as necessary */}
-                </div>
-                <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
-                  <p>View All</p>
-                  <ArrowForwardOutlinedIcon />
-                </a>
-              </CardContent>
-            </Card>
-            <div className="grid gap-4 lg:gap-16 lg:grid-rows-2">
-              <Card className="bg-gray-50">
+                </CardContent>
+              </Card>
+              <div className="grid gap-4 lg:gap-16 lg:grid-rows-2">
+                <Card className="bg-gray-50">
+                  <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+                    <CardTitle className="text-2xl">Product Clicks</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <div className="text-2xl font-bold">100</div>
+                    <p className="text-xs text-muted-foreground">+20.1% from last month</p>
+                  </CardContent>
+                </Card>
+                <Card className="bg-gray-50">
+                  <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+                    <CardTitle className="text-2xl font-bold">Total Revenue</CardTitle>
+                    <DollarSign className="h-4 w-4 text-muted-foreground" />
+                  </CardHeader>
+                  <CardContent>
+                    <div className="text-2xl font-bold">$100</div>
+                    <p className="text-xs text-muted-foreground">+20.1% from last month</p>
+                  </CardContent>
+                </Card>
+              </div>
+            </div>
+            <div className="grid lg:gap-16 lg:grid-cols-2 h-full">
+              <Card className="bg-gray-50 h-full">
                 <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-2xl font-bold">Recent Transactions</CardTitle>
+                  <CardTitle className="text-2xl font-bold">Ongoing Orders</CardTitle>
                 </CardHeader>
-                <CardContent className="flex flex-col">
-                  <div className="px-1 py-2 rounded-small border-default-200 dark:border-default-100">
-                    <div className="space-y-10">
+                <CardContent className="h-fit flex flex-col">
+                  <div className="px-1 mt-5 py-2 rounded-small border-default-200 dark:border-default-100 flex flex-col">
+                    <div className="flex flex-row items-center justify-between pb-4">
+                      <p className="text-lg font-bold">Customer Name</p>
+                      <p className="text-lg font-bold">% Done</p>
+                    </div>
+                    <div className="flex flex-row justify-between items-center">
                       <div className="flex flex-row items-center space-x-4">
                         <Avatar name="Henry" className="bg-green-700 text-white" />
                         <p className="text-lg">Henry</p>
                       </div>
-                      {/* Repeat transaction rows as necessary */}
+                      <p className="text-lg font-bold">100%</p>
                     </div>
+                    {/* Repeat customer rows as necessary */}
                   </div>
                   <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
                     <p>View All</p>
@@ -207,54 +194,80 @@ export function Dashboard() {
                   </a>
                 </CardContent>
               </Card>
-              <Card className="bg-gray-50">
-                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-2xl font-bold">Recent Chats</CardTitle>
-                </CardHeader>
-                <CardContent className="flex flex-col">
-                  <div className="px-1 py-2 rounded-small border-default-200 dark:border-default-100">
-                    <div className="space-y-10">
-                      <div className="flex flex-row items-center space-x-4 hover:bg-gray-300">
-                        <Avatar name="Henry" className="bg-green-700 text-white" />
-                        <div className="flex flex-col">
+                <Card className="bg-gray-50 h-full">
+                  <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+                    <CardTitle className="text-2xl font-bold">Recent Transactions</CardTitle>
+                  </CardHeader>
+                  <CardContent className="flex flex-col">
+                    <div className="px-1 py-2 rounded-small border-default-200 dark:border-default-100">
+                      <div className="space-y-10">
+                        <div className="flex flex-row items-center space-x-4">
+                          <Avatar name="Henry" className="bg-green-700 text-white" />
                           <p className="text-lg">Henry</p>
-                          <p className="text-sm text-gray-400">most recent chat message</p>
                         </div>
+                        {/* Repeat transaction rows as necessary */}
                       </div>
-                      {/* Repeat chat rows as necessary */}
                     </div>
-                  </div>
-                  <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
-                    <p>View All</p>
-                    <ArrowForwardOutlinedIcon />
-                  </a>
-                </CardContent>
+                    <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
+                      <p>View All</p>
+                      <ArrowForwardOutlinedIcon />
+                    </a>
+                  </CardContent>
               </Card>
             </div>
           </div>
-        </div>
-        <ListboxWrapper>
-          <div className="flex justify-between items-center p-5">
-            <h2 className="font-bold text-2xl">Notifications</h2>
-            <div className="relative inline-flex shrink-0">
-              <span className="flex z-10 flex-wrap absolute box-border rounded-full whitespace-nowrap place-content-center origin-center items-center select-none font-regular scale-100 opacity-100 subpixel-antialiased data-[invisible=true]:scale-0 data-[invisible=true]:opacity-0 px-1 text-small border-2 border-background bg-danger text-danger-foreground w-3.5 h-3.5 min-w-3.5 min-h-3.5 top-[15%] right-[5%] translate-x-1/2 -translate-y-1/2" />
+          <div className="grid grid-rows-2 gap-16 h-fit">
+            <ListboxWrapper>
+              <div className="flex justify-between items-center p-5">
+                <h2 className="font-bold text-2xl">Notifications</h2>
+                <div className="relative inline-flex shrink-0">
+                  <span className="flex z-10 flex-wrap absolute box-border rounded-full whitespace-nowrap place-content-center origin-center items-center select-none font-regular scale-100 opacity-100 subpixel-antialiased data-[invisible=true]:scale-0 data-[invisible=true]:opacity-0 px-1 text-small border-2 border-background bg-danger text-danger-foreground w-3.5 h-3.5 min-w-3.5 min-h-3.5 top-[15%] right-[5%] translate-x-1/2 -translate-y-1/2" />
+                </div>
+              </div>
+              <Listbox aria-label="Actions" onAction={(key) => alert(key)}>
+                <ListboxItem key="message" startContent={<Avatar className="flex-shrink-0" size="lg" src={"https://d2u8k2ocievbld.cloudfront.net/memojis/male/2.png"} />} textValue="1">
+                  <h3 className="text-lg"> Message Title</h3>
+                  <p className="text-gray-400">Notification Message</p>
+                </ListboxItem>
+                {/* Repeat listbox items as necessary */}
+              </Listbox>
+            </ListboxWrapper>
+            <div className="">
+              <Card className="bg-gray-50 h-full">
+                      <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
+                        <CardTitle className="text-2xl font-bold">Recent Chats</CardTitle>
+                      </CardHeader>
+                      <CardContent className="flex flex-col">
+                        <div className="px-1 py-2 rounded-small border-default-200 dark:border-default-100">
+                          <div className="space-y-10">
+                            <div className="flex flex-row items-center space-x-4 hover:bg-gray-300">
+                              <Avatar name="Henry" className="bg-green-700 text-white" />
+                              <div className="flex flex-col">
+                                <p className="text-lg">Henry</p>
+                                <p className="text-sm text-gray-400">most recent chat message</p>
+                              </div>
+                            </div>
+                            {/* Repeat chat rows as necessary */}
+                          </div>
+                        </div>
+                        <a href="#" className="flex flex-row items-center ml-auto space-x-1 mt-2">
+                          <p>View All</p>
+                          <ArrowForwardOutlinedIcon />
+                        </a>
+                      </CardContent>
+              </Card>
             </div>
           </div>
-          <Listbox aria-label="Actions" onAction={(key) => alert(key)}>
-            <ListboxItem key="message" startContent={<Avatar className="flex-shrink-0" size="lg" src={"https://d2u8k2ocievbld.cloudfront.net/memojis/male/2.png"} />} textValue="1">
-              <h3 className="text-lg"> Message Title</h3>
-              <p className="text-gray-400">Notification Message</p>
-            </ListboxItem>
-            {/* Repeat listbox items as necessary */}
-          </Listbox>
-        </ListboxWrapper>
+
+        </div>
       </div>
+
     </div>
   );
 }
 
 const ListboxWrapper = ({ children }: any) => (
-  <div className="col-span-1 h-fit bg-gray-50 border-small px-1 py-2 rounded-small border-default-200 dark:border-default-100">
+  <div className=" col-span-1 h-full bg-gray-50 border-small px-1 py-2 rounded-small border-default-200 dark:border-default-100">
     {children}
   </div>
 );
