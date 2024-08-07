@@ -1,0 +1,235 @@
+[
+    {
+        "State": "California",
+        "Testers": [
+            {
+                "Laboratory Name": "CSA LA LLC dba CannaSafe",
+                "Phone Number": "818-922-2416",
+                "Email": "info@csalabs.com",
+                "City": "Van Nuys",
+                "State": "California"
+            }
+        ]
+    },
+    {
+        "State": "Colorado",
+        "Testers": [
+            {
+                "Laboratory Name": "SC Labs",
+                "Phone Number": "888-800-8223",
+                "Email": "support@botanacor.com",
+                "City": "Denver",
+                "State": "Colorado"
+            }
+        ]
+    },
+    {
+        "State": "Florida",
+        "Testers": [
+            {
+                "Laboratory Name": "AccuScience Laboratories",
+                "Phone Number": "352-308-8020",
+                "Email": "hbehzadi@accusciencelabs.com",
+                "City": "Eustiss",
+                "State": "Florida"
+            },
+            {
+                "Laboratory Name": "ACS Laboratory LLC",
+                "Phone Number": "813-634-4529",
+                "Email": "asun@acslabcannabis.com",
+                "City": "Sun City Center",
+                "State": "Florida"
+            },
+            {
+                "Laboratory Name": "ACT Laboratories of Florida LLC",
+                "Phone Number": "844-8AC-TLAB",
+                "Email": "NewYorkSales@actlab.com",
+                "City": "Davie",
+                "State": "Florida"
+            }
+        ]
+    },
+    {
+        "State": "Kentucky",
+        "Testers": [
+            {
+                "Laboratory Name": "CannaBusiness Laboratories LLC",
+                "Phone Number": "859-514-6999",
+                "Email": "info@cannabusinesslabs.us",
+                "City": "Lexington",
+                "State": "Kentucky"
+            },
+            {
+                "Laboratory Name": "KCA Laboratories LLC",
+                "Phone Number": "833-522-5227",
+                "Email": "trustedresults@kcalabs.com",
+                "City": "Nicholasville",
+                "State": "Kentucky"
+            }
+        ]
+    },
+    {
+        "State": "Maine",
+        "Testers": [
+            {
+                "Laboratory Name": "Nelson Analytical",
+                "Phone Number": "207-467-3478",
+                "Email": "Lmaling@nelsonanalytical.com",
+                "City": "Kennebunk",
+                "State": "Maine"
+            }
+        ]
+    },
+    {
+        "State": "Maryland",
+        "Testers": [
+            {
+                "Laboratory Name": "Pinnacle CT Inc",
+                "Phone Number": "",
+                "Email": "info@pinnaclectlabs.com",
+                "City": "Westminster",
+                "State": "Maryland"
+            }
+        ]
+    },
+    {
+        "State": "Minnesota",
+        "Testers": [
+            {
+                "Laboratory Name": "Legend Technical Services Inc",
+                "Phone Number": "",
+                "Email": "tschertler@legend-group.com",
+                "City": "Saint Paul",
+                "State": "Minnesota"
+            }
+        ]
+    },
+    {
+        "State": "New_Jersey",
+        "Testers": [
+            {
+                "Laboratory Name": "Admix Pharma Laboratories LLC",
+                "Phone Number": "908-546-1505",
+                "Email": "info@admixpharma.com",
+                "City": "South Plainfield",
+                "State": "New_Jersey"
+            },
+            {
+                "Laboratory Name": "Phyto-Farma Labs LLC (Mine Hill, NJ)",
+                "Phone Number": "908-654-8068",
+                "Email": "info@phytofarmalabs.com",
+                "City": "Mine Hill",
+                "State": "New_Jersey"
+            },
+            {
+                "Laboratory Name": "Trichome Analytical",
+                "Phone Number": "856-316-0600",
+                "Email": "info@trichomeanalytical.com",
+                "City": "Mount Laurel",
+                "State": "New_Jersey"
+            },
+            {
+                "Laboratory Name": "US Cannalytics LLC (East Hanover, NJ)",
+                "Phone Number": "",
+                "Email": "info@uscannalytics.com",
+                "City": "East Hanover",
+                "State": "New_Jersey"
+            }
+        ]
+    },
+    {
+        "State": "New_York",
+        "Testers": [
+            {
+                "Laboratory Name": "Biotrax Testing Laboratory Inc",
+                "Phone Number": "716-651-0146",
+                "Email": "edward@biotrax.net",
+                "City": "Cheektowaga",
+                "State": "New_York"
+            },
+            {
+                "Laboratory Name": "Botannis Labs NY Corp",
+                "Phone Number": "631-818-1500",
+                "Email": "info@botannis.com",
+                "City": "Hauppauge",
+                "State": "New_York"
+            },
+            {
+                "Laboratory Name": "Talon Analytical Lab",
+                "Phone Number": "888-201-0957",
+                "Email": "info@talonanalytical.com",
+                "City": "Garden City Park",
+                "State": "New_York"
+            }
+        ]
+    },
+    {
+        "State": "Pennsylvania",
+        "Testers": [
+            {
+                "Laboratory Name": "Allied Hemp Labs",
+                "Phone Number": "215-220-9981",
+                "Email": "info@alliedhemplabs.com",
+                "City": "Allentown",
+                "State": "Pennsylvania"
+            },
+            {
+                "Laboratory Name": "US Cannalytics LLC (Bethlehem, PA)",
+                "Phone Number": "",
+                "Email": "info@uscannalytics.com",
+                "City": "Bethlehem",
+                "State": "Pennsylvania"
+            }
+        ]
+    },
+    {
+        "State": "Tennessee",
+        "Testers": [
+            {
+                "Laboratory Name": "Kaycha TN",
+                "Phone Number": "",
+                "Email": "sue@kaychalabs.com",
+                "City": "Knoxville",
+                "State": "Tennessee"
+            },
+            {
+                "Laboratory Name": "New Bloom Labs",
+                "Phone Number": "844-837-8223",
+                "Email": "john@newbloomlabs.com",
+                "City": "Chattanooga",
+                "State": "Tennessee"
+            }
+        ]
+    },
+    {
+        "State": "Texas",
+        "Testers": [
+            {
+                "Laboratory Name": "ECL Testing LLC",
+                "Phone Number": "917-357-6582",
+                "Email": "matthew@ecltesting.com",
+                "City": "Oakwood",
+                "State": "Texas"
+            },
+            {
+                "Laboratory Name": "Ionization Labs",
+                "Phone Number": "",
+                "Email": "labservices@ionizationlabs.com",
+                "City": "Austin",
+                "State": "Texas"
+            }
+        ]
+    },
+    {
+        "State": "Virginia",
+        "Testers": [
+            {
+                "Laboratory Name": "Terramor Technologies",
+                "Phone Number": "540-824-3420",
+                "Email": "lab@terramortechnologies.com",
+                "City": "Lexington",
+                "State": "Virginia"
+            }
+        ]
+    }
+]

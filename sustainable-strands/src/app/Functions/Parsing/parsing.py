@@ -65,13 +65,8 @@ def parse_growers(input_file, output_file):
         json.dump(output_data, file, indent=4)
         
         
-        
-
-
-
-import json
-
-def parse_data(text):
+    
+def parse_samplers_util(text):
     lines = text.strip().split("\n")
     result = []
     county_data = None
@@ -126,10 +121,85 @@ def parse_samplers(input_file_path, output_file_path):
     with open(input_file_path, 'r') as file:
         text = file.read()
 
-    parsed_data = parse_data(text)
+    parsed_data = parse_samplers_util(text)
 
     with open(output_file_path, 'w') as json_file:
         json.dump(parsed_data, json_file, indent=4)
+        
+        
+def parse_testers_util(text):
+    lines = text.strip().split("\n")
+    result = []
+    state_data = None
+    testers = []
+
+    for line in lines:
+        if line.strip() == "":
+            continue
+        # Skip the category headers and the lines with counts
+        if line.startswith("Laboratory Name") or line[0].isdigit():
+            continue
+        
+        parts = line.split()
+        # Check if the line is a state name (single uppercase word)
+        if len(parts) == 1 and parts[0][0].isupper():
+            if state_data:
+                state_data['Testers'] = testers
+                result.append(state_data)
+            state_data = {"State": parts[0], "Testers": []}
+            testers = []
+        # Check if the line contains laboratory details
+        elif state_data:
+            name_parts = []
+            i = 0
+            while i < len(parts) and not parts[i][0].isdigit() and "@" not in parts[i] and parts[i] != '-N/A-':
+                name_parts.append(parts[i])
+                i += 1
+            name = " ".join(name_parts)
+            phone = parts[i] if i < len(parts) and (parts[i][0].isdigit() or parts[i] == '-N/A-') else ""
+            email = parts[i + 1] if i + 1 < len(parts) and "@" in parts[i + 1] and parts[i + 1] != '-N/A-' else ""
+
+            # Extract city from the remaining parts until the comma
+            city = ""
+            if i + 2 < len(parts):
+                city_parts = []
+                while i + 2 < len(parts) and not parts[i + 2].endswith(','):
+                    city_parts.append(parts[i + 2])
+                    i += 1
+                if i + 2 < len(parts) and parts[i + 2].endswith(','):
+                    city_parts.append(parts[i + 2].rstrip(','))
+                    i += 1
+                city = " ".join(city_parts)
+
+            # Set phone and email to empty string if they are -N/A-
+            if phone == '-N/A-':
+                phone = ""
+            if email == '-N/A-':
+                email = ""
+
+            testers.append({
+                "Laboratory Name": name,
+                "Phone Number": phone,
+                "Email": email,
+                "City": city,
+                "State": state_data["State"]
+            })
+
+    if state_data:
+        state_data['Testers'] = testers
+        result.append(state_data)
+
+    return result
+
+def parse_testers(input_file_path, output_file_path):
+    with open(input_file_path, 'r') as file:
+        text = file.read()
+
+    parsed_data = parse_testers_util(text)
+    with open(output_file_path, 'w') as json_file:
+        json.dump(parsed_data, json_file, indent=4)
+
+
 
 
 # Example usage
@@ -138,3 +208,4 @@ output_file = 'sampler_output.json'  # Replace with your desired output file pat
 
 parse_samplers(input_file, output_file)
 parse_growers('./hemp.txt', 'hemp_output.json')
+parse_testers('./testers.txt', 'testers_output.json')

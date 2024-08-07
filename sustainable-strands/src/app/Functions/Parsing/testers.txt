@@ -1,0 +1,66 @@
+California
+Laboratory Name Phone Email City
+1
+CSA LA LLC dba CannaSafe 818-922-2416 info@csalabs.com Van Nuys, CA
+Colorado
+Laboratory Name Phone Email City
+1
+SC Labs 888-800-8223 support@botanacor.com Denver, CO
+Florida
+Laboratory Name Phone Email City
+3
+AccuScience Laboratories 352-308-8020 hbehzadi@accusciencelabs.com Eustiss, FL
+ACS Laboratory LLC 813-634-4529 asun@acslabcannabis.com Sun City Center, FL
+ACT Laboratories of Florida LLC 844-8AC-TLAB NewYorkSales@actlab.com Davie, FL
+Kentucky
+Laboratory Name Phone Email City
+2
+CannaBusiness Laboratories LLC 859-514-6999 info@cannabusinesslabs.us Lexington, KY
+KCA Laboratories LLC 833-522-5227 trustedresults@kcalabs.com Nicholasville, KY
+Maine
+Laboratory Name Phone Email City
+1
+Nelson Analytical 207-467-3478 Lmaling@nelsonanalytical.com Kennebunk, ME
+Maryland
+Laboratory Name Phone Email City
+1
+Pinnacle CT Inc -N/A- info@pinnaclectlabs.com Westminster, MD
+
+Minnesota 
+Laboratory Name Phone Email City
+1
+Legend Technical Services Inc -N/A- tschertler@legend-group.com Saint Paul, MN
+
+New_Jersey
+Laboratory Name Phone Email City
+4
+Admix Pharma Laboratories LLC 908-546-1505 info@admixpharma.com South Plainfield, NJ
+Phyto-Farma Labs LLC (Mine Hill, NJ) 908-654-8068 info@phytofarmalabs.com Mine Hill, NJ
+Trichome Analytical 856-316-0600 info@trichomeanalytical.com Mount Laurel, NJ
+US Cannalytics LLC (East Hanover, NJ) -N/A- info@uscannalytics.com East Hanover, NJ
+New_York
+Laboratory Name Phone Email City
+3
+Biotrax Testing Laboratory Inc 716-651-0146 edward@biotrax.net Cheektowaga, NY
+Botannis Labs NY Corp 631-818-1500 info@botannis.com Hauppauge, NY
+Talon Analytical Lab 888-201-0957 info@talonanalytical.com Garden City Park, NY
+Pennsylvania
+Laboratory Name Phone Email City
+2
+Allied Hemp Labs 215-220-9981 info@alliedhemplabs.com Allentown, PA
+US Cannalytics LLC (Bethlehem, PA) -N/A- info@uscannalytics.com Bethlehem, PA
+Tennessee
+Laboratory Name Phone Email City
+2
+Kaycha TN -N/A- sue@kaychalabs.com Knoxville, TN
+New Bloom Labs 844-837-8223 john@newbloomlabs.com Chattanooga, TN
+Texas
+Laboratory Name Phone Email City
+2
+ECL Testing LLC 917-357-6582 matthew@ecltesting.com Oakwood, TX
+Ionization Labs -N/A- labservices@ionizationlabs.com Austin, TX
+
+Virginia
+Laboratory Name Phone Email City
+1
+Terramor Technologies 540-824-3420 lab@terramortechnologies.com Lexington, VA
