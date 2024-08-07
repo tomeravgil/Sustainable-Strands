@@ -1,0 +1,536 @@
+Authorization	Business Name	Business Focus	Contact	Email	City	County
+36_0232	1821 Hemp LLC	CBD	Todd Town	ttown@applumbing.com
+Warners	Onondaga
+36_0035	4 Erratic Farm	CBD	David Dzielak	dzielakd@gmail.com
+Skaneateles	Onondaga
+36_0265	A%N LLC	CBD, Fiber, Grain/Food, Microgreens	Emery Watson	anlcc.online@proton.me
+Albany	Albany
+36_0119	A&J Ag Services	CBD	Nowel Faus	nowelfaus@gmail.com
+Rock Stream	Yates
+36_0244	Adirondack Community College dba SUNY Adirondack	CBD, Fiber, Grain/Food	John Jablonski	jablonskij@sunyacc.edu
+Queensbury	Warren
+36_0002	Adirondack Hemp Company Inc	CBD	David Brown	dbrown1262@verizon.net
+Stillwater	Saratoga
+36_0147	Adirondack Hemp Farms LLC	CBD	Scott Fish	adirondackhempfarms@gmail.com
+Whitehall	Washington
+36_0169	AgZeit LLC dba AgZeit Farms	CBD, Fiber, Grain/Food, Microgreens	James Dutcher	agzeit@gmail.com
+Endicott	Broome
+36_0019	Akron Bloom	CBD	Jason Abounader	jayabounader@gmail.com
+Akron	Erie
+36_0155	Aliud LLC	CBD	William Kolberg	kylew@camphillvillage.org
+Copake	Columbia
+36_0259	Alpha MC Services Corp	CBD, Fiber, Grain/Food, Microgreens	Michael Castenaro	mcastenaro@gmail.com
+Jackson Heights	Queens
+36_0261	Alpine Bloomz LLC	CBD	Chase Schuyler	alpine.agronomyadk@gmail.com
+Saranac Lake	Franklin
+36_0073	Ancient Ways Hemp	CBD, Seed Stock	Tammi Sweet	tamheartstone@gmail.com
+Van Etten	Chemung
+36_0121	Angeli.co LLC dba State Bridge Farm	CBD, Fiber, Grain/Food	David Simchik	info@statebridgefarm.com
+Durhamville	Oneida
+36_0003	B30F Enterprises LLC	CBD	Timothy Moshier	tim.moshier@icloud.com
+Fulton	Oswego
+ 
+36_0177	BAAR Scientific LLC	CBD, Fiber, Grain/Food, Research	Christopher Becker	becker89@ottcmail.com
+Romulus	Seneca
+36_0248	Battenkill Buds LLC	CBD, Seed Stock	Derek Mann	battenkillbuds@gmail.com
+Greenwich	Washington
+36_0153	Benjamin Bailey	CBD	Benjamin Bailey	bbailey99999@gmail.com
+Buffalo	Erie
+36_0132	Big M Direct LLC	CBD	Malcom Rogowski	malcolmrogowski@yahoo.com
+Pine Island	Orange
+36_0237	Big Smoke Farms	CBD	Antonio Uribe	bigsmokefarmsllc@gmail.com
+Altamont	Albany
+36_0093	Black Pheasant Farm LLC	CBD	Andrew Maggio	AndrewJMaggio@gmail.com
+Mamaroneck	Westchester
+36_0165	Blue Mountain Growers LLC	CBD, Fiber, Grain/Food	Gary Myer	bluemountaingrowersny@gmail.com
+Saugerties	Ulster
+36_0116	Bone Creek Farm LLC	CBD	Raymond Gelormino	bonecreekfarmllc@gmail.com
+Deposit	Broome
+36_0218	Brand S Farms Organics LLC	CBD	Brian Brandes	brandesb70@yahoo.com
+Wellsville	Allegany
+36_0199	Bristol Extracts LLC	CBD	Eric Blazak	eblazak@bristolextracts.com
+Canandaigua	Ontario
+36_0164	BYG LLC	CBD, Fiber, Grain/Food, Microgreens	James Dutcher	jdutcherbyg@gmail.com
+Endicott	Broome
+36_0161	BYM Group	CBD, Grain/Food	Jinneng Bao	virlozhong@gmail.com
+Rochester	Monroe
+36_0238	CalmUnity Farms LLC	CBD	Lee Pierce	calmunityfarms@gmail.com
+Elmira	Chemung
+36_0112	Canadice Farm LLC	CBD	Jesse Freund	info@nyhorsefarm.com
+Hemlock	Ontario
+36_0016	Canna Grow LLC	CBD	Joongsuk Hwang	cannagrowllc21@gmail.com
+Flushing	Queens
+36_0020	Canna World LLC	CBD	Radell Fernandez	CannaNY21@gmail.com
+Rego Park	Queens
+36_0240	Cannabis Crafters LLC	CBD	Linda Dentice	ccraftersllc@gmail.com
+Angola	Erie
+36_0257	Cannon Cultivation LLC	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Patrick Cannon	pcannon524@gmail.com
+West Bloomfield	Ontario
+36_0230	Cardea at Twin Elms LLC	CBD, Fiber, Grain/Food	Jennifer Jennings	admin@cardeahealthwny.com
+East Aurora	Erie
+36_0118	Carol Wolf & Deborah Shanaman dba Big Sky Ranch Holdings LLC	CBD	Thomas Ayres III	bigskyranch@optonline.net
+Water Mill	Suffolk
+36_0085	Central Processors NY LLC	CBD, Fiber, Grain/Food	John Vavalo	ny@centralprocessors.com
+East Syracuse	Onondaga
+36_0183	Cherry Valley Growers Inc	CBD, Fiber, Research	Joseph Passalaqua	jopass@yahoo.com
+Liverpool	Onondaga
+ 
+36_0054	Chickidoo Hempstead LLC	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Arthur Brownsey	arthurbrownsey@gmail.com
+Middletown	Orange
+36_0253	Chiodo and Sons LLC	CBD, Fiber, Grain/Food	Jeffrey Chiodo	chiodosonsllc@outlook.com
+Syracuse	Onondaga
+36_0041	Circle G Ranch NY LLC	CBD	Michael Carone	mike@circlegny.com
+Astoria	Queens
+36_0144	Claudine Farm Resort LLC	CBD	Aswad Sallie	king@claudinefieldapothecary.com
+Copake	Columbia
+36_0200	Cloud Forest Farm LLC	CBD, Microgreens	Antonia Schreiber	antphobia@hotmail.com
+Windham	Greene
+36_0072	Colorado's Brand Distributing LLC dba Glenna's CBD Best Oil	CBD, Fiber, Grain/Food, Microgreens, Nursery, Research,	Glenna Colaprete	glenna.colaprete@gmail.com
+Rochester	Monroe
+36_0075	Cornucopia Growers LLC	CBD, Fiber, Grain/Food, Microgreens	Anthony DeLaCuesta	cornucopiagrowers@gmail.com
+Gilboa	Schoharie
+36_0243	Cubed Roots	CBD, Fiber, Grain/Food, Microgreens	Caleb Starowicz	cubedrootsus@gmail.com
+Manlius	Onondaga
+36_0181	Cyrus Padgett	CBD	Cyrus Padgett	cyruspadgett@gmail.com
+Addison	Steuben
+36_0208	Danu Farm NY LLC	CBD, Fiber, Grain/Food, Microgreens	John Gallaher	info@danufarm.com
+Amenia	Dutchess
+36_0060	dba Earthly Blooms	CBD, Nursery	Jill Malouf	jillmal@me.com
+Delmar	Albany
+36_0239	DBA Mountain Top Botanical Theresa Gentile	CBD, Grain/Food, Nursery, Seed Stock	Theresa Gentile	gentiletheresa@aol.com
+Summit	Schoharie
+36_0018	Dennis Van Wagenen	CBD	Dennis Van Wagenen	ddvanwagenen@aol.com
+Kingston	Ulster
+36_0136	Dew Good Industries LLC	CBD, Fiber, Grain/Food, Microgreens	Tania Doverspike	dewgoodindustriesllc@gmail.com
+Ovid	Seneca
+36_0050	Donald Spoth Farm	CBD	Donald Spoth	dspoth@verizon.net
+Amherst	Erie
+36_0266	Dorothy Potucek	CBD	Dorothy Potucek	potucekfarm@aol.com
+Newport	Herkimer
+36_0021	Drakewater Organic	CBD	Andrew Pirozzolo	andrewjoseph.1111a@gmail.com
+Pine City	Chemung
+36_0241	East Branch Farms	CBD	Madalyn Warren	madalyn.warren@gmail.com
+Roxbury	Delaware
+36_0227	Eaton Hemp DBA JD Farms	CBD, Fiber, Grain/Food	Daniel Dolgin	dan@eatonhemp.com
+Eaton	Madison
+36_0110	Edmond Shabo	CBD, Fiber, Grain/Food	Edmond Shabo	edmond.shabo@gmail.com
+Deruyter	Madison
+36_0166	Emerald City NY LLC dba Green Spectrums	CBD, Fiber, Grain/Food, Microgreens, Seed Stock	Michael Fertucci	emeraldcitynyllc@gmail.com
+Hopewell Junction	Dutchess
+36_0059	Empire Agricultural Services LLC	CBD, Fiber, Grain/Food	Frank Mahns	frankmahns1212@gmail.com
+Rochester	Monroe
+ 
+36_0022	Enfield Glen Hopyard	CBD	Jason Beizavi	jason@enfieldglenhopyard.com
+Newfield	Tompkins
+36_0163	Engelke Farm and Gardens	CBD	Paul Engelke Jr	engelkefarm@yahoo.com
+Troy	Rensselaer
+36_0223	Equitable Reclaim & Processing LLC	Research	Kyle Anderson	kylea253@gmail.com
+Sanborn	Niagara
+36_0014	ESJN Enterprises	CBD	Eric Sega	esjnenterprises@gmail.com
+Binghamton	Broome
+36_0111	Fare Thee Well Farm Inc	CBD	Craig Robbins	craigsteven.cr@gmail.com
+Jamestown	Chautauqua
+36_0062	FarmOn! Foundation Inc	CBD, Fiber, Grain/Food, Microgreens, Research	Tessa Edick		Copake	Columbia
+36_0058	Frank Farm LLC	CBD	Frank LaBarbera	flabarbera1@yahoo.com
+N Pownal	Out of State
+36_0154	Frankie's Produce Farms Inc	CBD	Heather Pinand	heather@modernproduce.com
+Goshen	Orange
+36_0224	Fuji Valley LLC	CBD, Fiber, Grain/Food, Microgreens	Rustin Kluge	fujivalleyllc@gmail.com
+Hyde Park	Dutchess
+36_0180	Full Harvest Group LLC	CBD, Grain/Food	Chuan Sun	fullharvestgroup2019@gmail.com
+Amsterdam	Montgomery
+36_0080	Gator Farms	CBD	David Althiser	quietbuys@gmail.com
+Richmondville	Schoharie
+36_0251	Getlidi Management LLC	CBD	Noel Mercedes	getlidimanagement@gmail.com
+Bronx	Bronx
+36_0084	Glenville Farm Property LLC	CBD	Victor Canales	vcanales@vcmglive.com
+Glenville	Schenectady
+36_0082	Gloria Maris LLC	CBD, Fiber, Grain/Food, Microgreens	Eric Schwesinger	eric@gmtrading.com
+New York	New York
+36_0170	Goatwell Farms LLC	CBD	Steven Harland	goatwellfarmer@gmail.com
+Canandaigua	Ontario
+36_0037	God's Flower LLC	CBD, Nursery	Michael Kandhorov	info@hempfarmsofny.com
+New Windsor	Orange
+36_0122	Good Life Farm	CBD	Garrett Miller	info@fingerlakesciderhouse.com
+Interlaken	Seneca
+36_0103	Good Roots NY LLC	CBD	Ryan Wieder	rwieder23@yahoo.com
+Cayuta	Chemung
+36_0137	Graceful Roses LLC	CBD, Nursery	Jason Henderson	gracefulroses@gmail.com
+Fulton	Oswego
+36_0096	Grasse River Hemp	CBD, Fiber, Grain/Food, Microgreens, Nursery	Dean Laubscher	dlaub@twcny.rr.com, northernlimitsfarm@yahoo.com
+Potsdam	St. Lawrence
+36_0092	Grateful Valley Farm LLC	CBD, Fiber, Grain/Food, Microgreens	Tess Interlicchia	gratefulvalleyfarmllc@gmail.com
+Lindley	Steuben
+36_0024	Great Lakes Farms DBA	CBD	Jeramy Bernardoni	greatlakesfarm@gmail.com
+Elba	Genesee
+ 
+36_0089	Green Living Technologies International LLC	CBD, Nursery	George Irwin	george@agreenroof.com
+Rochester	Monroe
+36_0197	Green Orchard Farm Inc	CBD, Grain/Food, Nursery, Seed Stock	YuHui Mai	evergreenvalley1689@gmail.com
+Newport	Herkimer
+36_0017	Green Spade Farms LLC	CBD, Fiber	Elaine Alvarez	greenspadefarms@gmail.com
+Westtown	Orange
+36_0090	Green Wells Venture LLC	CBD	Gary Burman	gary@lincolncgi.com
+Wellsville	Allegany
+36_0152	GRFNY3662	CBD	Koleen Singerline	singerlinek@gmail.com
+Pine Beach	Out of State
+36_0235	Halton Hay	CBD, Fiber, Grain/Food, Microgreens	Stephen Halton	haltonhay@outlook.com
+New Woodstock	Madison
+36_0182	Healium Collective LLC	CBD	Lukas Crowder	healiumcbd@gmail.com
+Glenville	Schenectady
+36_0108	Hemp at Action Acres	CBD	Courtney Carlson	courtneymnolan@yahoo.com, suddenstorm1066@yahoo.com
+Cambridge	Washington
+36_0010	Hemp Farms LLC	CBD, Nursery	Michael Geraci	nyarmyguard@yahoo.com
+Rego Park	Queens
+36_0070	Hemp Industry Consultants Inc	CBD	Victor Lazares	hempindustryconsultants@mail.com
+Dix Hills	Suffolk
+36_0036	Hemp Landing LLC	CBD	Susan Bocci	s99bocci@gmail.com
+South New Berlin	Otsego
+36_0011	Hemp Nirvana	CBD	Maria Giorgio	maximus.p.giorgio@gmail.com
+White Plains	Westchester
+36_0028	Hemp Productions Inc	CBD, Fiber, Grain/Food, Research	Kimberly Tanami	info@hpifarma.com
+Poughkeepsie	Dutchess
+36_0046	Hempire Farms LLC	CBD, Fiber, Grain/Food, Microgreens	Jorden Seamans	hempirefarmsllc@gmail.com
+Susquehanna	Out of State
+36_0061	Hempire Inc dba Empire Farm 1830	CBD, Fiber, Grain/Food, Microgreens, Research	Tessa Edick	tessa.edick@gmail.com
+Craryville	Columbia
+36_0126	Hemppire Farms	CBD	David Breitman	hotwaterplus1@gmail.com
+Baldwin	Nassau
+36_0168	Hepworth Ag Inc	CBD	Gail Hepworth	gailhepworth@gmail.com
+Milton	Ulster
+36_0043	Herondale Farm Inc	CBD	Jeremy Peele	info@herondalefarm.com
+Ancramdale	Columbia
+36_0159	Hiddenview Family Farm LLC	CBD	Jessica Schwed	jessica.hiddenviewfarm@gmail.com
+Elizaville	Columbia
+36_0045	High End Group LLC	CBD	Nancy Murray	nancy@highendgroup.com
+Spencer	Tioga
+36_0106	High Falls Agriculture	CBD	Richard Weissman	support@highfallshempny.com
+High Falls	Ulster
+36_0057	Highview Farms Inc	CBD, Fiber, Grain/Food, Microgreens	Charles McArdle	hvf12120@gmail.com
+Medusa	Albany
+ 
+36_0027	Hi-Y Farm LLC	CBD, Fiber, Grain/Food	Jessica Golley	jlgolley@gmail.com
+Salamanca	Cattaraugus
+36_0185	Holm Grown LLC	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Eduardo Vargas	info@holmgrownllc.com
+Hillsdale	Columbia
+36_0212	Homecrest Farm	CBD, Fiber, Grain/Food	Jeffrey Horne	jhorne007@gmail.com
+Old Chatham	Columbia
+36_0008	HomeGrower NY Inc	CBD, Fiber, Grain/Food, Microgreens	Bobby McLeod	operations@HomeGrower.net
+New York	New York
+36_0135	Honest Pharmco Inc	CBD, Nursery, Seed Stock	Jonathan Callahan	jonc@honestpharmco.com
+Newark	Wayne
+36_0217	Honey Dog Farm LLC	CBD	Lawrence Humphrey	larry.humphrey@btlaw.com
+Hillsdale	Columbia
+36_0113	Hop-n-Hemp Teas Inc	CBD	Andrew Krouse	andrewtkrouse@gmail.com
+Orchard Park	Erie
+36_0094	Hydro Grow NY Inc	CBD, Grain/Food, Nursery, Seed Stock	Richard Stacey	Rstacey@RSAutomation.net
+Albion	Orleans
+36_0005	Indigenous Cannabis Hemp LLC	CBD	Millard Isennock	buster.isennock@gmail.com
+Niagara Falls	Niagara
+36_0067	Island Grow LLC	CBD	Kevin Alfonso	kevin.m.stone22@gmail.com
+Carle Place	Nassau
+36_0074	Ithaca Organics LLC	CBD	Trever Sherman	ithacaorganics@gmail.com
+Dryden	Tompkins
+36_0033	Jennifer Digney-Bihm	CBD, Nursery	Jennifer Digney-Bihm	jlsbihm@optonline.net
+Cutchogue	Suffolk
+36_0086	Jenny's Baked at Home Company LLC	CBD	Jennifer Argie	jenny@bakedathomecompany.com
+Stuyvesant	Columbia
+36_0167	Joe Sidoti	CBD	Joe Sidoti	joes7759@yahoo.com
+Westtown	Orange
+36_0066	Joseph Richard Adornetto	CBD	Joseph Adornetto	joeyadornetto@gmail.com
+Hillsdale	Columbia
+36_0124	Joshua E Prior	CBD	Joshua Prior	joshuapriordc@yahoo.com
+Pennellville	Oswego
+36_0187	Julie Ann's Vegetable and Honey Farm LLC	CBD	Julie Markoff	jmarkofffarms@yahoo.com
+Windsor	Broome
+36_0254	Kaaterskill Cannabis LLC	CBD	Wyatt Garratt	wyattkurt8@gmail.com
+Shady	Ulster
+36_0267	Kaleidoscope Farms	CBD, Fiber, Grain/Food, Microgreens, Nursery	Zachary Bobseine	everyone@kfwny.com
+Westfield	Chautauqua
+36_0130	Kanna Worx Industries LLC	CBD, Nursery, Seed Stock	Christopher Sherwin	chris@kannaworxindustries.com
+Walden	Orange
+36_0100	Karker Hess and Davis LLC	CBD	Jacob Karker	karkerhessanddavisllc@gmail.com
+Howes Cave	Schoharie
+36_0216	Karl's Smoke'n Speed	CBD, Nursery	Kyle Dutton	karlssmokinspeed@gmail.com
+Holland	Erie
+ 
+36_0114	Karma's Krops	CBD, Fiber, Grain/Food, Microgreens, Research	Brandie Young	mom2mylou@yahoo.com
+Stanley	Ontario
+36_0133	Kickfly's	CBD	Justin Capoccia	kickflys@gmail.com
+Niskayuna	Schenectady
+36_0264	L & M Cultivation	CBD	Jeremy Long	jeremy@box4grow.com
+Port Jervis	Orange
+36_0193	Lab Hollow Farms	CBD	Justin Heavey	labhollowfarms@gmail.com
+Fabius	Onondaga
+36_0134	Laura Ten Eyck	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Laura Ten Eyck	lateneyck@gmail.com
+Altamont	Albany
+36_0184	Leisuretime Greenhouses	CBD, Nursery	Denise Dygert	leisuretimehemp@gmail.com
+West Charlton	Saratoga
+36_0189	Living Soil Hemp LLC	CBD, Fiber, Grain/Food, Microgreens	Richard Morris	1richtoad@gmail.com
+Fort Edward	Saratoga
+36_0123	Lone Oak Acres	CBD, Fiber, Grain/Food	Peggy Gelser-Webb	pgelserwebb@yahoo.com
+Swain	Allegany
+36_0219	Long Season Farms	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Kenneth Jurow	longseasonfarms@gmail.com
+Red Hook	Dutchess
+36_0246	Lovendare Inc	CBD	Sabina Cohen	creativebigmarket@gmail.com
+Brooklyn	Kings
+36_0268	M & B Interstate Farm Co	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Brian Lachow	bldmhauling@yahoo.com
+Manorville	Suffolk
+36_0131	M & M Produce Farms & Sales LLC	CBD	Mark Rogowski Sr	mmfarms100@yahoo.com
+Goshen	Orange
+36_0145	M3 Agri Ventures LLC	CBD	Mark Rogowski Jr	mark@ssproduce.com, nancy_rogowski@hotmail.com
+Pine Island	Orange
+36_0140	Main Street Farms LLC	CBD	Allan Gandelman	info@mainstreetfarms.com
+Cortland	Cortland
+36_0195	Mandeville Farm	CBD	Kirk Mandeville	mandeville11@msn.com
+Spencer	Tioga
+36_0129	Marissa Hemp Acres	CBD, Fiber, Grain/Food, Microgreens, Nursery	Rick Depalma	rick@marissaacres.com
+Ridgefield	Out of State
+36_0150	Medfarm Inc	CBD	Jon Von Okenfus	von@medfarminc.org
+Newton	Out of State
+36_0198	MegCar LLC	CBD, Fiber	Thomas Hefferon	thefferon7@gmail.com
+Watertown	Jefferson
+36_0162	Mejiagreensfarms LLC	CBD	Juan Mejia	juan_mejia@email.com
+Saugerties	Ulster
+36_0174	Meyer Dairy Farms LLC	CBD, Fiber, Grain/Food	Chad Meyer	chadmeyer32@gmail.com
+Varysburg	Wyoming
+36_0077	Michael I Casper Inc dba Casper's Farm	CBD, Grain/Food, Microgreens, Research	Michael Casper	michael@caspersfarm.com
+Ithaca	Tompkins
+36_0115	Migliorelli Farm LLC	CBD, Fiber, Grain/Food	Kenneth Migliorelli	ken@migliorelli.com
+Tivoli	Dutchess
+ 
+36_0088	Miller Acres	CBD	Gina Miller	gina.miller928@gmail.com
+Albion	Orleans
+36_0109	Monument Mountain Farm LLC	CBD, Nursery	Floyd Bronson II	mbfb92112@gmail.com
+Windsor	Broome
+36_0034	Morales Family Farms	CBD	Marvin Morales	mohemp@hotmail.com
+Mount Morris	Livingston
+36_0194	Morris Hemp LLC	CBD, Nursery	Jeff Morris	jeff.morris03@yahoo.com
+Elma	Erie
+36_0076	Mountain Growers LLC	CBD	Peter Breyer	peterbreyer1@gmail.com
+Hillsdale	Columbia
+36_0178	Mountain View Dairy	CBD, Fiber	Todd Bessette	dbessette@westelcom.com
+Lewis	Essex
+36_0117	Mountaindale Meadows LLC	CBD, Fiber, Grain/Food	Alex Scrivani	durgalalane@gmail.com
+Claryville	Ulster
+36_0188	Muckland LLC	CBD	Colleen Dougherty		Pine Island	Orange
+36_0247	MW No Limits LLC	CBD, Seed Stock	Taylor Wollman	taylormw@gmail.com
+Manlius	Onondaga
+36_0083	NAHE LLC	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Nicole N'diaye	info@naheus.com
+Sloansville	Schoharie
+36_0158	Nelson Ave Stable LLC	CBD	Thomas Weille	tweille@gmail.com
+Ballston Spa	Saratoga
+36_0173	New York Hemp LLC	CBD	Andrew Cavallaro	andycav1919@gmail.com
+Chester	Orange
+36_0026	New York Hemp Service LLC	CBD, Nursery	John Ng	info@newyorkhempservice.com
+Hudson	Columbia
+36_0049	NG Growers Inc	CBD, Nursery	Petet Shafer	pete@nanticokegardens.com
+Endicott	Broome
+36_0097	Niagara Hemp Supply	CBD	James Bullman, Jr.	kari@onehempholistics.com, jim@onehempholistics.com
+Niagara Falls	Niagara
+36_0252	Northern Roots CBD LLC	CBD, Fiber, Grain/Food, Microgreens	Zachary Barber	zac.barber@northernroots.us
+Clemons	Washington
+36_0068	NY Hemp Source LLC	CBD	Eran Sherin	eran@urbanxtracts.com
+Warwick	Orange
+36_0204	OK to Grow	CBD, Fiber, Grain/Food	Frederick Ruckel	fred@oktogrow.com
+Gilboa	Schoharie
+36_0031	Oksana Pidhoreckyj	CBD, Fiber, Grain/Food	Oksana Pidhoreckyj	oksanap99@gmail.com
+Brooklyn	Kings
+36_0191	Orange County Community College	CBD, Fiber, Grain/Food	Monty Vacura	paul.martland@sunyorange.edu
+Middletown	Orange
+36_0236	Our New Way Garden	CBD, Fiber, Grain/Food	Akio Lloyd	ournewwaygarden@gmail.com
+West Harrison	Westchester
+36_0186	Owego Hemp LLC	CBD	Christine Horton	owegohemp@gmail.com
+Owego	Tioga
+ 
+36_0053	Passion Field Farm	CBD	Diane Curley	curleytwo@gmail.com
+Millbrook	Dutchess
+36_0004	PC Development Corp DBA Paul's Organic Farm	CBD	Paul Cohn	paulmcohn@gmail.com
+Holland	Erie
+36_0064	Pine Rose Farm LLC	CBD, Nursery, Seed Stock	Leslie Roseman	pinerosefarm420@gmail.com
+Trumansburg	Tompkins
+36_0142	Pioneer Plant Tech	CBD, Nursery	James Knuth	pioneerplanttech@gmail.com
+Utica	Oneida
+36_0107	Plane Meadow Farm	CBD	Michael Champagne	planemeadowfarm@gmail.com
+Tivoli	Dutchess
+36_0128	Pleasant View Harvest LLC	CBD, Fiber, Research	Ervin Raboy	pvfllc@gmail.com
+Brewster	Putnam
+36_0012	Puregreengrowth Inc	CBD, Fiber, Grain/Food	Avetik Amyan	avetikamyan@yahoo.com
+Pulaski	Oswego
+36_0175	R&G Produce LLC	CBD	Gary Glowaczewski	rgproduce@optonline.net
+Goshen	Orange
+36_0213	Red Eastern Farm LLC	CBD	Chen (Chris) Zheng	chouseck@yahoo.com
+Middleburgh	Schoharie
+36_0222	Reit Buds	CBD, Fiber, Grain/Food, Microgreens	Paul Reitschky		Honeoye Falls	Monroe
+36_0263	Richard Damato	CBD, Fiber, Grain/Food	Richard Damato	rainsun51@yahoo.com
+Canandaigua	Ontario
+36_0171	Robert P Neuman	CBD	Robert Neuman	bobqbi@aol.com
+Barker	Niagara
+36_0196	Roemer Farms LLC	CBD, Nursery	Mindi Roemer	roemerfarms@gmail.com
+Coeymans Hollow	Albany
+36_0069	Route 27 Hopyard LLC	CBD, Microgreens, Nursery, Seed Stock	Ryan Andoos	route27hopyard@gmail.com
+Oceanside	Nassau
+36_0105	Ryan Farms	CBD, Fiber	James Ryan	terrijamesryan@aol.com
+Marion	Wayne
+36_0151	S&SO Produce Farms LLC	CBD, Nursery	Mark Rogowski	mark@ssoproduce.com
+Goshen	Orange
+36_0160	SAF NY Realty Co LLC	CBD, Fiber, Grain/Food, Microgreens, Nursery, Seed Stock	Daniel DeGirolamo	djd@safny.com
+Berlin	Rensselaer
+36_0087	Scarp Farm LLC	CBD	Jennifer Scarpulla	scarpfarm@yahoo.com
+Hoosick Falls	Rensselaer
+36_0176	Shellard Skye Ranch LLC	CBD, Fiber, Grain/Food	Jason Shellard	jshellard14@gmail.com
+Fort Edward	Washington
+36_0143	Shepherd Farm	CBD	Paul Shepherd Jr	shepherdfarmevansmills@gmail.com
+Evans Mills	Jefferson
+36_0052	Singer Farm Naturals LLC	CBD	Thomas Szulist	tom@singerfarmnaturals.com
+Appleton	Niagara
+36_0120	Skeeterboro Farms LLC	CBD	Rex Mazur	skeeterborofarms@gmail.com
+Rome	Oneida
+ 
+36_0025	Skoda Enterprises Incorporated	CBD	Gerald Skoda Jr	gskoda@conteches.com
+Woodbourne	Sullivan
+36_0044	Sky Farm Inc	CBD	Chris Regan	2skyfarm@gmail.com
+Millerton	Dutchess
+36_0009	Skyworld Industries LLC	CBD	Alex Anderson	alexanderson525@gmail.com
+Niagara Falls	Niagara
+36_0071	Slack Hollow Organics LLC	CBD	Seth Jacobs	hightunnelfarmer@gmail.com
+Argyle	Washington
+36_0051	Smith Murdock Company LLC	CBD	Richard Murdock	rjm@smithmurdock.net
+New York	New York
+36_0215	Snowbelt Gardens LLC	CBD, Fiber, Microgreens, Nursery	Ashley Baron	snowbeltgardens@gmail.com
+Jamestown	Chautauqua
+36_0206	Sparkle Holdings LLC	CBD	George Stadler	mick@sparkleholdings.com
+Rochester	Monroe
+36_0203	Stillwater Farms LLC	CBD, Fiber	Stephanie Harding	stillwaterfarmsonline@gmail.com
+Altona	Clinton
+36_0081	Stop 28 Farm & Nursery Inc	CBD, Fiber, Grain/Food, Seed Stock	Michael Viens	stop28nursery@gmail.com
+Palmyra	Wayne
+36_0127	Strain Mountain Farms LLC	CBD	Luke Laskoski	llaskoski@yahoo.com
+Seneca Falls	Seneca
+36_0063	Sunnyville Farms	CBD, Nursery	Noah St. Thomas	sunnyvillefarm@yahoo.com
+Massena	St. Lawrence
+36_0156	Tadt Services	CBD	Alex Tadt	alextadt@hotmail.com
+Fredonia	Chautauqua
+36_0065	Tap Root Fields LLC	CBD, Fiber, Grain/Food, Microgreens	Josh Allyn	ashley@taprootfields.com
+Skaneateles	Onondaga
+36_0228	Ternary Inc	CBD, Fiber, Grain/Food	Alison McGowan	teddyluc@icloud.com
+Cambridge	Washington
+36_0006	Terrace Corporation of New York	CBD	Scot Trifilo		Saratoga Springs	Saratoga
+36_0214	The BonTemps Firm LLC	CBD, Grain/Food	Moriah Kelly	moriahkelly@gmail.com
+Buffalo	Erie
+36_0078	The Eclectic Farmstead	CBD, Fiber, Grain/Food, Microgreens	Jeanette Miller	jeanettemiller024@gmail.com
+Newfane	Niagara
+36_0091	The Hemp Division Inc	CBD	Michael Harney	michael@harneyteas.com
+Millerton	Dutchess
+36_0098	The Hemptons LLC	CBD, Fiber, Grain/Food	Vanessa Villanova	vanessa@thehemptons.com
+Chatham	Columbia
+36_0056	The Releaf Market LLC	CBD	Kerry Trammel	info@thereleafmarket.com
+Jamestown	Chautauqua
+36_0013	The Trim Reaper	CBD	Jennifer Sisbarro	magnifierfarms@gmail.com
+Hemlock	Ontario
+36_0148	Theory Gardens	CBD	Warren Daniels III	theorygardensny@gmail.com
+Rock City Falls	Saratoga
+ 
+36_0157	Three Cord Ranch LLC	CBD	Todd Giolando	tdgiolando@gmail.com
+Derby	Erie
+36_0139	Tongore Brook Farm LLC	CBD, Microgreens	Michael McDonough	mail@michaelmcdonough.com
+Stone Ridge	Ulster
+36_0149	Top Bud Inc	CBD	Christopher Dagele	frankd@dagelebrothersproduce.com
+Florida	Orange
+36_0125	Toro Development Inc	CBD	Perry Hill	perryethill1989@gmail.com
+Buffalo	Erie
+36_0192	Triple HHH Farm LLC	CBD	Matthew Meola	mattiefishes@gmail.com
+Rotterdam	Schenectady
+36_0047	Truax Farms LLC	CBD, Fiber	Jose Rodrigues III	joesrodriguesiii@gmail.com
+East Worcester	Schoharie
+36_0055	Twin Arch Farm LLC	CBD	Heather Walsh	heather@twinarchfarm.com
+Rock Tavern	Orange
+36_0079	Unhinged Hemp Farms	CBD	Justin Guynup	unhingedhemp@gmail.com
+Hannibal	Oswego
+36_0099	Upsprout LLC	CBD	Xiao Lin	paulnyc168@gmail.com
+Berlin	Rensselaer
+36_0229	Upstate Hydroponic Growers LLC	CBD, Microgreens	Ryan Taylor	uhgrowers@gmail.com
+Ballston Spa	Saratoga
+36_0209	Varallo Vineyards	CBD	Dominic Varallo	info@springlakewinery.com
+Lockport	Niagara
+36_0023	Vetrun LLC dba Torrwood Farm	CBD	Charles Kerr	lucas.kerr@torrwoodfarm.com
+Barryville	Sullivan
+36_0104	Volga-Dutch Farm	CBD	Terence Yungman	volgadutchfarm@gmail.com
+Warwick	Orange
+36_0038	Walden Riverside Farm Inc	CBD	Melissa Phelps	phelpsriversidefarmny@gmail.com
+Walden	Orange
+36_0042	Waterman's Greenhouse LLC	CBD	Ethan Waterman	watermansflowers@gmail.com
+East Concord	Erie
+36_0231	Wawawa Cannabis Store LLC	CBD	Luis Leonardo		Far Rockaway	Queens
+36_0146	Weaver Road Farms LLC	CBD	Lisa Keller	wrfllc@hotmail.com
+Fredonia	Chautauqua
+36_0141	Weinerts Elk Creek Farm LLC	CBD	William Weinert	weinertselkcreekfarm@gmail.com
+Schenevus	Otsego
+36_0040	Weiss Farms	CBD	Robert Weiss	weissfarmseden@gmail.com
+Eden	Erie
+36_0048	Wheatfield Gardens LLC	CBD	Paal Elfstrum	info@wheatfieldgardens.com
+N Tonawanda	Niagara
+36_0032	WJF Farms LLC	CBD	William Fabb	fabbjon@yahoo.com
+Cutchogue	Suffolk
+36_0029	Woods of Wellness LLC	CBD	Nicholas Huminski	nicholas@woodsofwellness.co
+Margaretville	Delaware
+ 
+36_0095	Yager Farms	CBD	Michael Yager	mtyager@hotmail.com
+Eden	Erie
+Growing	12					
+Authorization	Business Name	Business Focus	Contact	Email	City	County
+36_0001	Agbotic Project 1 LLC	Grain/Food	Kevin Richardson	richardson@agbotic.com
+Sackets Harbor	Jefferson
+36_0255	Agricultural Development Services	Fiber, Grain/Food, Seed Stock	Richard Wildman	rwildman@agtogo.com
+Henrietta	Monroe
+36_0262	Fox Hill Industries LLC	Fiber	John Erbes-Chan	foxhillindustries@gmail.com
+Ancramdale	Columbia
+36_0249	Hailee Greene	Fiber, Grain/Food	Hailee Greene	hg477@cornell.edu
+Boonville	Lewis
+36_0138	Magin Farms	Microgreens	Barbara Magin	maginfarms@gmail.com
+Marion	Wayne
+36_0039	Nickel City Wholesale Garden Supply Inc	Fiber, Nursery, Seed Stock	Michael Yocina	myocina@outlook.com
+Corfu	Genesee
+36_0234	NY State of Mind LLC	Fiber, Grain/Food	Ariel Bizardi	abizardi@yahoo.com
+Camden	Oneida
+36_0201	P & B Tru Farm	Fiber, Grain/Food, Microgreens	Bryanna Eloi	pbtrufarm@gmail.com
+New Berlin	Chenango
+36_0190	Peter Allis	Fiber	Peter Allis	pallis315@gmail.com
+Locke	Cayuga
+36_0258	Sanctuary Gardens LLC	CBD, Fiber, Grain/Food, Microgreens	Joshua McNary	thesanctuarygardens@gmail.com
+Canajoharie	Montgomery
+36_0233	Stone House Grain LLC	Fiber, Grain/Food	Jay Goldmark	jay@stonehousegrain.com
+Hudson	Columbia
+36_0225	William F Gersitz	Fiber, Grain/Food	William Gersitz	williamfgersitz@gmail.com
+Colden	Erie
+Research	13					
+Authorization	Business Name	Business Focus	Contact	Email	City	County
+36_0205	Cabbacis LLC	Research	Joseph Pandolfino		Niagara Falls	Niagara
+36_0015	Cornell University	Research	Mark Hurwitz		Ithaca	Tompkins
+36_0269	Finger Lakes Community College	Research	Ali Cala	jason.tack@flcc.edu
+Canandaigua	Ontario
+36_0210	Hemp Grow NY LLC	Research	Marco Pedone	marcopedone@yahoo.com
+Warwick	Orange
+36_0245	Ithaca College	Fiber, Research	Anne Stork	astork@ithaca.edu
+Ithaca	Tompkins
+36_0250	Medgro Bio Inc	Research	Paul Rushton	prushton@medgrobio.com
+Buffalo	Erie
+ 
+36_0260	New Museum of Contemporary Art	Research	Ian Wallace	info@newmuseum.org
+New York	New York
+36_0202	Niagara County Community College	Research	Melissa Moore	mmoore@niagaracc.suny.edu
+Sanborn	Niagara
+36_0179	Sativica Enterprises Inc	Research	Gregory Waszak	greg.waszak@gmail.com
+Boston	Erie
+36_0172	SUNY Cobleskill	CBD, Fiber, Grain/Food	Lesley Judd		Cobleskill	Schoharie
+36_0101	SUNY Morrisville	Research	Jennifer Jenkins	gilberjk@morrisville.edu
+Morrisville	Madison
+36_0030	USDA-ARS Plant Genetic Resources Unit	Research	Zachary Stansell	zachary.stansell@usda.gov
+Geneva	Ontario
+36_0242	Westside Museum LLC	Research	Robert Frey		New York	New York
+Seed Retai	l	2					
+Authorization	Business Name	Business Focus	Contact	Email	City	County
+36_0226	#YKTV LLC	Seed Stock	Charles Alexander	charles.alexander25@gmail.com
+Rochester	Monroe
+36_0256	Green Consulting Hub Inc	Seed Stock	Mario Busquets	finance@highcbdfarms.com
+New York	New York
